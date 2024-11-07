@@ -1,0 +1,507 @@
+contributor,projects,categories,languages,ecosystems,country,total_rewarded_usd_amount,reward_count,issue_count,pr_count,code_review_count,contribution_count
+0xandee,"FLEX MARKETPLACE,Satoru",,"Cairo,Typescript",Starknet,VN,3182.75,2,0,0,0,0
+0xAsten,"Dojo,Madara,Starknet React,Starknet docs: Starknet Technical Documentation,Starknet in Rust,The Cairo Book,The Starknet Book,Warpack Masters",,"Cairo,Javascript,Rust",Starknet,CN,25,1,0,1,0,1
+0xChqrles,"Alexandria,Cairo compiler,Deoxys,Dojo,Starklings-Cairo1,Starknet React,Unruggable Meme,Vault,Zkramp,zKube","DeFi,Gaming","Cairo,Javascript,Rust,Swift,Typescript",Starknet,FR,0,0,0,2,1,3
+0xdevcollins,"BSV Blockchain Faucet,Cairo VM gs,Cairo lint,Custos Diretriz,Joyboy Community,Metamask Snap Avail,SPV Wallet Browser,Speedrun & Scaffold Stark,SpotNet,StarkLudo,Starknet Quest,Starknet-Scaffold,Stellar CLI,Stone Packaging ,Yours Wallet","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Javascript,Python,Rust,Typescript","BSV Blockchain,Starknet,Stellar",NG,453.15,5,2,2,0,4
+0xGreed,Starknet Foundry,,,Starknet,,30,1,0,2,0,2
+0xLucqs,"Alexandria,Beerus,Cairo compiler,Cairo lint,Cartridge,DevNet,Dojo,Hardhat-Plugin,Joyboy Community,Kakarot,Madara,Papyrus,Poseidon,Satoru,Starknet docs: Starknet Technical Documentation,Starknet.go,The Cairo Book,The Starknet Book,Tsubasa,Vault,ZeroSync,starknet.js",,"Cairo,Go,Javascript,Python,Rust,Solidity,Typescript",Starknet,FR,0,0,0,2,0,2
+0xNeshi,"LandVer,Starknet By Example,Starknet Foundry,The Cairo Book","Infrastructure,Learning,RWA","Cairo,Python,Solidity",Starknet,,70.44,2,0,4,0,4
+0xquantum3labs,Speedrun & Scaffold Stark,,"Cairo,Javascript,Typescript",Starknet,,0,0,0,0,10,10
+0xumarkhatab,The Cairo Book,,,Starknet,,0,0,0,0,0,0
+4eyes52,RealmsWorld,,"Javascript,Typescript",Starknet,US,0,0,0,0,0,0
+abdegenius,"Dojo,GO Feature Flag,STRKFarm,chaineventts","DeFi,Dev Tooling","Go,Javascript,Typescript",Starknet,,0,0,0,2,0,2
+AbdelStark,"Abi WAN TS,Alexandria,Barknet,Beerus,Cairo VM in Zig,Cairo compiler,Carbonable,Cashubrew,Garaga,Joyboy Community,Kaaper,Kakarot,Madara,OnlyDust,Papyrus,Poseidon,Satoru,Starknet docs: Starknet Technical Documentation,Unruggable Meme,Vault,ZeroSync,btczee,shinigami,starknet-rs,🥥 Cashu wallet and mint implementation in Zig","Dev Tooling,Infrastructure","Cairo,Go,Javascript,Python,Rust,Typescript,Zig",Starknet,,0,0,0,0,2,2
+Abeeujah,"GO Feature Flag,ScanGuard,StarkLudo,Starknet Foundry,Starknet Quest,Starknet React,Stellar CLI,chaineventts","Dev Tooling,Gaming","Cairo,Rust,Typescript","Starknet,Stellar",NG,147.38,2,2,5,0,7
+actions-user,"Babylon Node Auto Installer,Kakarot,Starknet Remix Plugin",,,Starknet,,0,0,0,4,0,4
+addegbenga,"AFK - Aligned Fam Kernel,Starknet Quest,The Cairo Book,art/peace,shinigami",,"Cairo,Go,Javascript,Solidity,Typescript",Starknet,NG,1802.24,3,1,8,0,9
+Aditya-040,Starknet Quest,,Typescript,Starknet,IN,158.41,2,1,1,0,2
+adrianvrj,"Cairo Native,Cairo VM in Go,Carbonable,Concrete,DeRisk,Dojo,Giza,Go Stark Me,Kakarot,Karst,Starkflare,Starknet.dart,Worldcoin-bridge-linea,art/peace,opscan by walnut,shinigami",,"Cairo,Go,Javascript,Python,Rust,Typescript","Optimism,Starknet",CR,938,1,6,5,15,26
+adrienlacombe,"Garaga,Joyboy Community",,,Starknet,FR,0,0,0,1,0,1
+aguilar1x,ByteBeasts,Gaming,,Starknet,CR,0,0,1,1,0,2
+akhercha,"Alexandria,Cairo compiler,Cartridge,Cubit,Deoxys,Dojo,Giza,Kakarot,Satoru,Starknet Foundry,Unruggable Meme,ethui (formerly Iron Wallet)",,"Cairo,Python,Rust,Solidity,Typescript",Starknet,NL,0,0,0,3,7,10
+Akinbola247,"AfriMart,Blobstream-Starknet,Dojo,Satoru,Speedrun & Scaffold Stark,The Starknet Book",,"Cairo,Javascript,Typescript",Starknet,NG,135,1,0,0,0,0
+akintewe,"AFK - Aligned Fam Kernel,Basic Payment App,Giza,STRKFarm,Starknet Foundry,Starknet Phone,Stone Packaging ,The Cairo Book,Topology","DeFi,Dev Tooling,Infrastructure,Learning","Cairo,Javascript,Kotlin,Rust,Typescript","Starknet,Stellar",NG,271.72,2,2,3,0,5
+akiraonstarknet,STRKFarm,DeFi,"Javascript,Typescript",Starknet,IN,1922.96,2,1,3,2,6
+Akshola00,"DeRisk,LandVer,Starknet Foundry,Starknet Quest","Infrastructure,RWA","Cairo,Python,Rust,Typescript",Starknet,,32.21,1,3,3,0,6
+aliyan404,Space ABI,"Infrastructure,Learning",Typescript,Starknet,,0,0,0,1,0,1
+alkhulaifi,Cashubrew,"Dev Tooling,Infrastructure",,Starknet,,240.36,1,0,1,0,1
+allcontributors[bot],"Cairo lint,Carbonable,DipDup,Garaga,Giza,Karst,LandVer,Mancala,Rosettanet,STRKFarm,Starknet Phone,Starknet Quest,Starknet.go,The Cairo Book","DeFi,Infrastructure,RWA",,"Ethereum,Optimism,Starknet",,0,0,0,24,0,24
+Alon-Ti,"Cairo VM,Cairo compiler",,"Cairo,Rust",Starknet,,0,0,0,0,0,0
+amanusk,"Alexandria,DevNet,Hardhat-Plugin,Madara,Starknet Foundry,Starknet docs: Starknet Technical Documentation,starknet.js",,"Cairo,Rust,Typescript",Starknet,,0,0,0,0,1,1
+ametel01,"Apibara,Blobstream-Starknet,Cubit,Dojo,FLEX MARKETPLACE,Hyperlane Starknet,Rosettanet,Satoru,Scarb,Starknet Foundry,The Cairo Book",,"Cairo,Javascript,Rust,Typescript",Starknet,GB,0,0,0,0,0,0
+anchalshivank,Replica_IO,,,"Aptos,Avail,Aztec,Ethereum,Lava,Optimism,Starknet",,0,0,0,0,0,0
+AndreiZg,"Konoha,SpotNet",DeFi,"Cairo,Javascript,Typescript",Starknet,,0,0,0,1,0,1
+AndriiBogomolov,"DeRisk,SpotNet",DeFi,"Javascript,Python",Starknet,UA,89.24,1,3,26,0,29
+anonfedora,"StarkLudo,Starknet Quest,chaineventts",Gaming,"Cairo,Typescript",Starknet,NG,127.29,2,1,1,0,2
+AnoukRImola,"Cofiblocks,Konoha",RWA,,Starknet,CR,550.29,1,0,0,0,0
+antiyro,"Barknet,Checkpoint,Deoxys,Kakarot,Ledger Fresh,Madara,Starklings-Cairo1,Starknet docs: Starknet Technical Documentation,Starknet in Rust",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,,0,0,0,5,25,30
+anubhav11156,Gitcoin Allo Starknet,,,Starknet,IN,550.77,1,0,0,0,0
+anukkrit149,"Deoxys,Kakarot,Madara,Pathfinder",,"Javascript,Rust",Starknet,IN,0,0,0,1,0,1
+aokiji233,Starknet Quest,,Typescript,Starknet,FR,0,0,0,0,0,0
+aopoltorzhicky,DipDup,,Go,"Ethereum,Optimism,Starknet",,0,0,0,0,0,0
+apoorvsadana,"Barknet,Cairo VM,Deoxys,GasPay,Kakarot,Ledger Fresh,Madara,Pathfinder,Starknet-id,starknet-rs",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,IN,0,0,1,2,4,7
+Arcticae,"Cairo compiler,Scarb,Starknet Foundry,Starknet React,Starknet SDK for Python,Starknet in Rust,starknet.js,starknet.py",Dev Tooling,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,0,1,18,19
+ArielElp,"Alexandria,Cairo VM,Cairo compiler,Papyrus,Starknet docs: Starknet Technical Documentation",,"Cairo,Javascript,Rust,Typescript",Starknet,,0,0,0,0,1,1
+ArturVargas,"Kakarot,Madara,The Starknet Book",,"Cairo,Go,Python,Rust",Starknet,MX,556.16,1,0,0,0,0
+Await-0x,"Cartridge,Dojo,RealmsWorld",,"Cairo,Python,Typescript",Starknet,,0,0,0,0,0,0
+aymericdelab,"Dojo,Kakarot,PixeLAW,RealmsWorld",,"Cairo,Javascript,Python,Rust,Typescript",Starknet,BE,723.45,1,22,42,15,79
+Ayoazeez26,"AFK - Aligned Fam Kernel,Custos Diretriz,Joyboy Community,Konoha,STRKFarm,Speedrun & Scaffold Stark,StarkLudo,Starknet Quest,Starknet-Scaffold,The Cairo Book,Zkramp,art/peace,zKube","DeFi,Gaming","Cairo,Go,Javascript,Rust,Typescript",Starknet,NG,550,3,1,2,0,3
+ayush99336,StarkLudo,Gaming,,Starknet,,24.9,1,0,0,0,0
+azteca1998,"Cairo Native,Cairo VM,Pathfinder,Starknet in Rust",,"C++,Cairo,Python,Rust",Starknet,,0,0,0,4,18,22
+azurwastaken,"Alexandria,Deoxys,Kakarot,Madara",,"Cairo,Rust,Solidity",Starknet,FR,0,0,0,0,0,0
+bacharif,"ArkProject,Cairo-Foundry,Garaga",,"Cairo,Go,Python,Rust",Starknet,FR,0,0,0,1,0,1
+baitcode,"GO Feature Flag,Raito - Bitcoin ZK Client,Stone Packaging ","Dev Tooling,Infrastructure","Cairo,Go,Python",Starknet,GB,2881.33,3,1,3,0,4
+bal7hazar,"Alexandria,ArkProject,Cairo compiler,Carbonable,Cartridge,Cubit,Dojo,Giza,Kaaper,Kakarot,Paved,RealmsWorld,Satoru,Starknet in Rust,SybilShield,Tsubasa,Unruggable Meme,shhtarknet,zConqueror,zKlash,zKnight,zKube",Gaming,"C#,Cairo,Javascript,Python,Rust,Typescript",Starknet,FR,0,0,0,7,1,8
+barabanovro,"Cairo compiler,Dojo,Starkflare,Starknet Foundry,Starknet-id,Walnut HQ,cairovm-codes,opscan by walnut",,"Cairo,Javascript,Python,Rust,Typescript",Starknet,KZ,0,0,0,0,0,0
+BenFaruna,starknet.js,,"Cairo,Typescript",Starknet,NG,67.65,1,0,0,0,0
+bengineer42,"Cairo compiler,Cartridge,Cubit,Dojo,RealmsWorld,Rising Revenant,Starklings-Cairo1",,"Cairo,Rust,Typescript",Starknet,GB,551.94,1,0,1,0,1
+Benjtalkshow,"AFK - Aligned Fam Kernel,BSV Blockchain Faucet,Bandada,Blink Extension,Cairo lint,Go Stark Me,Nicera Labs,STRKFarm,Speedrun & Scaffold Stark,SpotNet,StarkLudo,Starknet Foundry,Starknet Quest,Starknet React,Starknet docs: Starknet Technical Documentation,Stellar CLI,Stone Packaging ,opscan by walnut,zKube","DeFi,Dev Tooling,Gaming,Infrastructure","Cairo,Javascript,Python,Rust,Typescript","BSV Blockchain,Starknet,Stellar",NG,539.58,7,5,7,0,12
+bhanuprasad14,Cashubrew,"Dev Tooling,Infrastructure",,Starknet,,0,0,0,1,0,1
+bhavyagosai,"AFK - Aligned Fam Kernel,Dojo,Joyboy Community,Kakarot,Starkflare,Starknet Quest,Starknet React,Starknet-Scaffold,opscan by walnut,starknet.js",,"Cairo,Javascript,Rust,Typescript",Starknet,IN,375,2,0,0,0,0
+bigherc18,"Apibara,Beerus,DevNet,DipDup,GO Feature Flag,starknet-rs",Dev Tooling,"Javascript,Python,Rust","Ethereum,Optimism,Starknet",FR,2496.05,1,0,1,0,1
+binayak9932,"BSV Blockchain Faucet,DeRisk,SpotNet","DeFi,Dev Tooling,Infrastructure","Python,Typescript","BSV Blockchain,Starknet",IN,0,0,4,4,0,8
+bitfalt,"Blobstream-Starknet,ByteBeasts,Carbonable,Cartridge,Cofiblocks,Create Soroban Dapp Boiletplate,Go Stark Me,Kakarot,Semaphore Stellar,Speedrun & Scaffold Stark,Starknet Quest","Dev Tooling,Gaming,Learning,RWA","Cairo,Typescript","Starknet,Stellar",CR,425,2,2,3,3,8
+b-j-roberts,"Alexandria,Blobstream-Starknet,Raito - Bitcoin ZK Client,The Cairo Book,art/peace,shinigami",Infrastructure,"Cairo,Go,Javascript,Ruby,Typescript",Starknet,US,0,0,0,9,14,23
+blessingbytes,"FLEX MARKETPLACE,The Cairo Book",,Cairo,Starknet,NG,0,0,1,1,0,2
+bloomingpeach,"Hylé,Raito - Bitcoin ZK Client,Starknet Foundry,art/peace,btczee,shinigami",Infrastructure,"Cairo,Python,Rust,Zig",Starknet,VN,1133.37,5,1,5,0,6
+bob0005,"Kakarot,Loot Survivor,RealmsWorld",Gaming,"Cairo,Javascript,Rust,Typescript",Starknet,,0,0,19,36,11,66
+bonustrack,"Checkpoint,starknet.js",,Typescript,Starknet,,0,0,0,0,4,4
+Boreas09,Rosettanet,,"Cairo,Typescript",Starknet,TR,0,0,0,0,0,0
+briansinw3b,"Atemu World,FLEX MARKETPLACE,StarkArcade,Starknet Coinflip ",,"Cairo,Typescript",Starknet,VN,1247.68,3,0,4,0,4
+brolag,"Cofiblocks,Ethereum Costa Rica,RealmsWorld,SafeSwap","DeFi,RWA","Cairo,Javascript,Typescript","Starknet,Stellar",,0,0,0,7,2,9
+bruhhgnik,"Garaga,Stone Packaging ",,Python,Starknet,IN,414.78,2,1,1,0,2
+BrunoAmbricca,"Cairo lint,LandVer,SpotNet,Starknet Quest","DeFi,Infrastructure,RWA",Rust,Starknet,AR,80.13,1,3,2,0,5
+Buuh2511,Speedrun & Scaffold Stark,,"Cairo,Solidity,Typescript",Starknet,VN,606.04,1,0,4,0,4
+caillef,"Dojo,RealmsWorld,zConqueror",,"Rust,Typescript",Starknet,FR,0,0,0,3,0,3
+Calcutatator,RealmsWorld,,,Starknet,,2167.35,1,0,0,0,0
+Calebux,"Joyboy Community,LandVer,ScanGuard,Speedrun & Scaffold Stark,StarkLudo,Starknet-Scaffold,Stellar-Wallet,art/peace,chaineventts","Gaming,Infrastructure,RWA","Cairo,Go,Javascript,Typescript","Starknet,Stellar",NG,205,2,2,2,0,4
+carldouch,zKube,Gaming,,Starknet,,0,0,0,1,0,1
+caseywescott,Nicera Labs,,Cairo,Starknet,US,2002.2,2,0,0,0,0
+casiojapi,Garaga,,Python,Starknet,,0,0,0,0,0,0
+casweeney,"Awesome Starknet Cairo,Cairo Synthetix Staking,Custos Diretriz,Peer Protocol,Resolver,Scroll SDKs,Staking Multiple Reward Tokens,chaineventts","DeFi,Learning","Cairo,Javascript,Rust,Solidity,Typescript",Starknet,NG,723.45,1,4,41,0,45
+caxtonacollins,"AFK - Aligned Fam Kernel,Custos Diretriz,SpotNet,Starknet Quest",DeFi,"Javascript,Python,Typescript",Starknet,,0,0,1,3,0,4
+cchudant,Deoxys,,"Cairo,Rust,Typescript",Starknet,,0,0,0,9,8,17
+chachaleo,"Cairo compiler,Cairo lint,Giza,Hylé,Kakarot,Starklings-Cairo1,The Cairo Book,Zkramp,shinigami",DeFi,"Cairo,Python,Rust,Typescript",Starknet,BE,1757.49,3,1,1,0,2
+Cheelax,"Dojo,Madara,RealmsWorld,Starknet-Scaffold,The Cairo Book,Tsubasa,zConqueror,zKnight,zKube",Gaming,"Cairo,Javascript,Rust,Typescript",Starknet,FR,1444.9,1,0,5,0,5
+chibokaxavier,Peer Protocol,DeFi,Typescript,Starknet,NG,0,0,1,1,0,2
+chinepun,The Cairo Book,,Cairo,Starknet,NG,10.19,1,0,1,0,1
+cicr99,"Cairo VM in Go,Starknet.go",,"Cairo,Go",Starknet,,0,0,0,0,2,2
+ClanCo,"zConqueror,zKlash,zKube",Gaming,"C#,Cairo,Javascript,Typescript",Starknet,FR,0,0,0,6,0,6
+ClementWalter,"Beerus,Cairo Native,Cairo VM,Cairo VM gs,DevNet,Devnet-rs,Kakarot,Madara,Pathfinder,Starknet-id,Starksheet",,"Cairo,Javascript,Python,Rust,Solidity,Typescript","Ethereum,Starknet",FR,0,0,1,19,39,59
+clexmond,"Cubit,Hardhat-Plugin,Influence,Madara,Starklings-Cairo1,starknet.js",,"Cairo,Javascript,Typescript","Ethereum,Starknet",,2297.65,2,0,0,0,0
+codeWhizperer,"ERC6551: Token bound Accounts on Starknet,Karst,Starklings-Cairo1,Starknet Quest,Starknet-Scaffold,The Starknet Book,cairovm-codes",,"Cairo,Javascript,Typescript",Starknet,NG,2500,1,0,2,0,2
+codeZe-us,"FLEX MARKETPLACE,SpotNet",DeFi,,Starknet,NG,0,0,1,0,0,1
+CollinsC1O,"DeRisk,FLEX MARKETPLACE,GO Feature Flag,Karst,LandVer,Speedrun & Scaffold Stark,StarkLudo,Starknet Foundry,Starknet Quest,Stone Packaging ,The Cairo Book,art/peace,starknet.js","Dev Tooling,Gaming,Infrastructure,RWA","Cairo,Go,Javascript,Python,Rust,Typescript",Starknet,NG,428.47,4,3,4,0,7
+ColoCarletti,Platinum Prover,,Rust,Starknet,,0,0,0,0,2,2
+CountryCousin,"Giza,Starklings-Cairo1,The Cairo Book,WTF Academy Starknet",,Cairo,Starknet,NG,0,0,0,0,0,0
+coxmars,"ArkProject,ByteBeasts,Cairo VM in Go,Cairo lint,Go Stark Me,Joyboy Community,Kakarot,Reth,Starknet Phone,Starknet Quest,opscan by walnut,shinigami","Gaming,Infrastructure","Cairo,Go,Kotlin,Rust,Typescript","Ethereum,Starknet",CR,350,2,1,1,11,13
+cptartur,"Cairo compiler,DevNet,Scarb,Starknet Foundry,Starknet JVM,Starknet SDK for Python,starknet.py",Dev Tooling,"Cairo,Java,Javascript,Kotlin,Python,Rust",Starknet,,0,0,2,9,24,35
+credence0x,"Dojo,ERC6551: Token bound Accounts on Starknet,Giza,RealmsWorld,Unruggable Meme",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,NG,0,0,2,19,2,23
+cristianFleita,"ByteBeasts,Dojo,Starkane,zKube",Gaming,"C#,Javascript,Typescript",Starknet,AR,0,0,1,2,0,3
+CristopherAguilar10,"ByteBeasts,Cairo lint,Proof of Passport",Gaming,"C#,Rust,Typescript",Starknet,CR,500,1,4,4,0,8
+custosDiretriz,Custos Diretriz,,,Starknet,,0,0,0,0,4,4
+cyberhawk12121,Hyperlane Starknet,,Cairo,Starknet,,0,0,0,0,0,0
+Cyberking99,"BSV Blockchain Faucet,ScanGuard","Dev Tooling,Infrastructure",Typescript,"BSV Blockchain,Starknet",NG,0,0,1,1,0,2
+cyl19970726,STARKs & FRI Course,Learning,,Starknet,,0,0,0,0,0,0
+danielcdz,"ByteBeasts,Cairo VM in Go,DeRisk,Go Stark Me,Kakarot,Reth,SafeSwap,Soroban Example Dapp,Speedrun & Scaffold Stark,Starknet Phone,Starknet Quest,opscan by walnut,stark-cairo-nodes","DeFi,Dev Tooling,Gaming,Infrastructure,Learning","Cairo,Go,Python,Rust,Typescript","Ethereum,Starknet,Stellar",MX,674.99,4,6,8,13,27
+DanielEmmanuel1,"ArkProject,Peer Protocol,Reth,Starknet Quest",DeFi,"Javascript,Rust,Solidity,Typescript","Ethereum,Starknet",NG,401.06,1,0,0,0,0
+Darlington02,"Cairo compiler,ERC6551: Token bound Accounts on Starknet,Karst,Satoru,Starknet-Scaffold,The Cairo Book,The Starknet Book,Unruggable Meme,WTF Academy Starknet,learnXinYminutes",,"Cairo,Javascript,Typescript",Starknet,NG,4500,2,0,1,3,4
+DavedCreator,ScanGuard,,,Starknet,NG,0,0,1,1,0,2
+Davidson-Souza,Raito - Bitcoin ZK Client,Infrastructure,Rust,Starknet,BR,5000.04,2,0,0,0,0
+dbejarano820,"Cartridge,Dojo,Foundry,Giza,Kakarot,Madara,Platinum Prover,Satoru,Starknet docs: Starknet Technical Documentation,The Cairo Book,The Starknet Book,Tsubasa,starknet-rs,starknet.js",,"Cairo,Javascript,Python,Rust,Typescript","Ethereum,Starknet",CR,1446.9,1,0,0,0,0
+ddoktorski,"Scarb,Starknet Foundry,Starknet JVM,Starknet SDK for Python,starknet-rs,starknet.py",Dev Tooling,"Cairo,Python,Rust",Starknet,,0,0,0,0,1,1
+dean-starkware,Cairo compiler,,"Cairo,Rust",Starknet,,0,0,0,4,4,8
+deeseeker,"Starknet Quest,Starknet React",,Typescript,Starknet,NG,30,1,0,1,0,1
+DelevoXDG,"Devnet-rs,Scarb,Starknet Foundry,Starknet JVM,Starknet SDK for Python,starknet.js,starknet.py",Dev Tooling,"Cairo,Java,Javascript,Kotlin,Python,Rust,Swift",Starknet,,0,0,0,1,0,1
+dependabot[bot],"Amphitheatre,Arianee Smart Contracts,ArkProject,Atemu World,Avail CLI,Avail powered zkEVM Validium,BSV Blockchain Faucet,Barknet,Basic Payment App,Beerus,Cairo VM in Zig,Cairo compiler,Checkpoint,Create Soroban Dapp Boiletplate,Devnet-rs,DipDup,FLEX MARKETPLACE,GO Feature Flag,Garaga,Go Stark Me,Hylé,JS-Stellar-SDK,Juno,Kakarot,Kitsu,Lava Network,Lume Web,Madara,Nethermind,OpEVM,OptimismJ,Paradex Client Libraries,Pathfinder,Reth,SPV Wallet Browser,Scarb,Sedge,Soroswap.Finance, AMM in Stellar with Soroban Smart Contracts,Sovereign SDK - Avail DA Adapter,StarkArcade,Starknet Coinflip ,Starknet Foundry,Starknet Remix Plugin,Starknet SDK for Python,Starknet.dart,Stellar CLI,Stellar-Wallet,Topology,World Engine,Yours Wallet,ethui (formerly Iron Wallet),gast,starknet-rs,starknet.py,zConqueror","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Go,Java,Javascript,Rust","BSV Blockchain,Ethereum,Optimism,Starknet,Stellar",,0,0,0,9,0,9
+derianrddev,"ByteBeasts,Go Stark Me,PayStell,Semaphore Stellar,stark-cairo-nodes","DeFi,Dev Tooling,Gaming,Learning",Cairo,"Starknet,Stellar",CR,30,1,3,3,0,6
+devnet0x,"Devnet-rs,Kakarot,Starknet Foundry,Starknet Security Challenges Factory,Starknet.dart,The Starknet Book",,"C++,Cairo,Javascript,Kotlin,Python,Rust,Swift",Starknet,CL,0,0,0,2,0,2
+DevPelz,"ArkProject,Karst,Worldcoin-bridge-linea",,Solidity,Starknet,NG,400.75,1,0,0,0,0
+DiegoB1911,"FLEX MARKETPLACE,Go Stark Me,Kakarot,stark-cairo-nodes","Dev Tooling,Learning",Cairo,Starknet,CR,25,1,2,2,0,4
+diegokingston,Platinum Prover,,"Cairo,Rust",Starknet,,0,0,0,2,4,6
+diegoTech14,"ByteBeasts,Cairo VM in Go,Cofiblocks,Go Stark Me,SafeSwap,SafeTrust,Stone Packaging ,stark-cairo-nodes","DeFi,Dev Tooling,Gaming,Learning,RWA","Cairo,Go,Typescript","Starknet,Stellar",CR,298.58,4,1,2,0,3
+djeck1432,"DeRisk,Konoha,SpotNet",DeFi,"Javascript,Python,Typescript",Starknet,,2425,3,0,19,86,105
+dkatzan,Starknet.go,,Go,Starknet,,0,0,0,0,0,0
+dmirgaleev,"DipDup,Raito - Bitcoin ZK Client,Stone Packaging ",Infrastructure,"Cairo,Typescript","Ethereum,Optimism,Starknet",,3318.75,1,1,5,7,13
+dor-starkware,Starknet docs: Starknet Technical Documentation,,,Starknet,,0,0,0,2,3,5
+dpinones,"Alexandria,ArkProject,Beerus,Cartridge,Dojo,Kakarot,Madara,Starkane,Starklings App,The Cairo Book,The Starknet Book",,"Cairo,Javascript,Rust,Typescript",Starknet,AR,0,0,0,0,0,0
+Dprof-in-tech,"AFK - Aligned Fam Kernel,DeRisk,Mancala,Nicera Labs,Peer Protocol,RealmsWorld,STRKFarm,Soroban Example Dapp,Speedrun & Scaffold Stark,SpotNet,Starknet Quest,Starknet-Scaffold,Stellar-Wallet,The Cairo Book,Underware,opscan by walnut,zKube","DeFi,Gaming","Cairo,Javascript,Python,Rust,Typescript","Starknet,Stellar",NG,370,3,2,3,14,19
+dracodev02,FLEX MARKETPLACE,,Typescript,Starknet,VN,0,0,0,1,0,1
+Draggu,"Cairo compiler,Scarb,Starknet Foundry",,"Cairo,Javascript,Rust,Typescript",Starknet,,0,0,0,3,23,26
+droserasprout,"DipDup,Starknet SDK for Python,starknet.py",Dev Tooling,"Javascript,Python","Ethereum,Optimism,Starknet",UY,3126.3,1,0,2,1,3
+dubzn,"Alexandria,ArkProject,Beerus,Cartridge,Dojo,Kakarot,Madara,Starkane,The Cairo Book,Unruggable Meme",,"Cairo,Javascript,Rust,Typescript",Starknet,AR,40.75,1,0,0,0,0
+Eche5,LandVer,"Infrastructure,RWA","Javascript,Typescript",Starknet,NG,0,0,1,1,0,2
+edg-l,"Cairo Native,Cairo VM,Starknet in Rust",,"C++,Cairo,Python,Rust",Starknet,ES,0,0,4,18,13,35
+edisontim,"Alexandria,Cairo VM in Zig,Cairo compiler,Dojo,Kakarot,Loot Survivor,Madara,RealmsWorld,Reth,Starknet React,starknet.js",Gaming,"Cairo,Javascript,Python,Rust,Typescript,Zig","Ethereum,Starknet",BE,723.45,1,12,32,26,70
+edulanasca,"Dojo,Speedrun & Scaffold Stark",,"Cairo,Javascript,Rust,Typescript",Starknet,CO,0,0,0,0,0,0
+egeaybars123,"AFK - Aligned Fam Kernel,Alexandria,Joyboy Community,Speedrun & Scaffold Stark,Starknet By Example",Learning,"Cairo,Javascript,Typescript",Starknet,TR,723.45,1,0,1,0,1
+EgeCaner,Hyperlane Starknet,,Cairo,Starknet,,0,0,0,0,0,0
+Eikix,"Alexandria,Beerus,Cairo VM,Cairo compiler,Cairo-Foundry,Dojo,Kakarot,Madara,Scarb,Starknet docs: Starknet Technical Documentation,The Cairo Book,The Starknet Book,Tsubasa",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,FR,0,0,0,4,5,9
+EjembiEmmanuel,"AFK - Aligned Fam Kernel,Amphitheatre,Carbonable,Dojo,Joyboy Community,Karst,Konoha,Mancala,RealmsWorld,STRKFarm,ScanGuard,StarkLudo,Starknet Quest,Starknet-Scaffold,The Cairo Book,Vault,Worldcoin-bridge-linea,Zkramp,art/peace,shinigami","DeFi,Gaming","Cairo,Go,Javascript,Rust,Solidity,Typescript",Starknet,NG,1025.71,2,1,5,8,14
+emdevelopa,Custos Diretriz,,"Javascript,Typescript",Starknet,,0,0,0,4,0,4
+Emmanex01,Starknet Quest,,Typescript,Starknet,NG,28.53,1,1,1,0,2
+EmmanuelAR,"Cairo VM in Go,Carbonable,DeRisk,Giza,Go Stark Me,Karst,RealmsWorld,Starknet Quest,art/peace,shinigami",,"Cairo,Go,Javascript,Python,Rust,Typescript",Starknet,CR,937,1,4,7,21,32
+emmz3230,"ACVM Docs,Starknet Quest",,"Javascript,Typescript","Aztec,Starknet",,24.45,1,0,0,0,0
+EndritKr,Carbonable,,,Starknet,CH,3500.39,3,0,0,0,0
+enitrat,"Alexandria,Beerus,Cairo Native,Cairo compiler,Cairo lint,Dojo,Ekubo Protocol,Garaga,Kaaper,Kakarot,RealmsWorld,Satoru,Scarb,Starklings-Cairo1,Starknet By Example,Starknet Foundry,Starknet React,Starknet docs: Starknet Technical Documentation,The Cairo Book,Unruggable Meme","DeFi,Learning","Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,,937.2,1,0,25,20,45
+ermvrs,"Alexandria,Blobstream-Starknet,Karst,Rosettanet,Satoru,Starknet By Example,Unruggable Meme",Learning,"Cairo,Javascript,Typescript",Starknet,TR,0,0,0,5,0,5
+estherbreath,"Mancala,Nicera Labs,StarkLudo,Starknet Phone,Starknet Quest,shinigami","Gaming,Infrastructure","Cairo,Javascript,Kotlin,Typescript",Starknet,NG,0,0,0,0,0,0
+estheroche,"Blobstream-Starknet,Cairo Native,Starklings-Cairo1,The Starknet Book",,Cairo,Starknet,NG,1444.9,1,0,0,0,0
+eugypalu,Kakarot,,"Python,Rust,Typescript",Starknet,,0,0,1,1,0,2
+evgongora,"ByteBeasts,Cofiblocks,Custos Diretriz,Go Stark Me,Semaphore Stellar,Stone Packaging ","Dev Tooling,Gaming,RWA","Cairo,Javascript,Typescript","Starknet,Stellar",CR,1295,3,1,4,0,5
+EvolveArt,"Alexandria,ArkProject,Cairo VM,Cubit,Deoxys,Dojo,Hyperlane Starknet,Madara,Poseidon,Satoru,Starknet React,Starknet SDK for Python,Starknet in Rust,The Starknet Book,Thoth,starknet.py",Dev Tooling,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,PT,4972.98,1,0,2,1,3
+FabijanC,"Alpaca,Cairo VM,DevNet,Devnet-rs,Hardhat-Plugin,starknet-rs,starknet.js",,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,0,3,7,10
+fabrobles92,"Concrete,DipDup,Dojo,Go Stark Me,Kakarot,near-sdk-rs",Dev Tooling,"Cairo,Go,Python,Rust,Solidity,Typescript","Ethereum,Optimism,Starknet",CR,189.34,2,0,0,0,0
+fatalbatros,Garaga,,Python,Starknet,,0,0,0,0,0,0
+faurdent,"DeRisk,Konoha,SpotNet",DeFi,"Cairo,Javascript,Python",Starknet,,0,0,0,4,1,5
+faytey,"0xFable,Blobstream-Starknet,Custos Diretriz,Dojo,JigIT,Kakarot,Satoru,Starknet Remix Plugin,Starknet docs: Starknet Technical Documentation,Starknet-Scaffold,The Starknet Book",,"Cairo,Javascript,Solidity,Typescript","Optimism,Starknet",NG,723.45,1,1,0,8,9
+feltroidprime,"Alexandria,Cairo VM,Cairo compiler,Garaga,Kakarot,Platinum Prover,Raito - Bitcoin ZK Client,Starknet SDK for Python,Starknet docs: Starknet Technical Documentation,The Cairo Book,starknet.py","Dev Tooling,Infrastructure","Cairo,Go,Javascript,Noir,Python,Rust,Typescript",Starknet,FR,0,0,0,15,7,22
+fishonamos,"AFK - Aligned Fam Kernel,Atoma Network ,Cairo VM in Go,Cairo lint,Carbonable,Concrete,Create Soroban Dapp Boiletplate,DAOConnect,Devnet-rs,Konoha,LandVer,Raito - Bitcoin ZK Client,STRKFarm,StarkLudo,Starklings-Cairo1,Starknet Quest,art/peace,starknet.js","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Go,Javascript,Python,Rust,Solidity,Typescript","Optimism,Starknet,Stellar",NG,605.29,2,1,12,0,13
+fishseabowl,"Dojo,Madara,Starknet Quest",,"Cairo,Rust,Solidity,Typescript",Starknet,US,300,1,1,2,0,3
+fmoletta,"Cairo Native,Cairo VM,Cairo compiler,DevNet,Platinum Prover,Starknet in Rust",,"Cairo,Javascript,Python,Rust",Starknet,,0,0,0,0,1,1
+FortunaRegem,Underware,,,Starknet,HR,0,0,0,0,0,0
+fracek,"Abi WAN TS,Apibara,Cairo VM in Zig,DevNet,Dojo,Ekubo Protocol,JS-Stellar-SDK,Kakarot,Madara,Pathfinder,Scarb,Starknet React,Unruggable Meme,Vault,starknet-rs,starknet.js",DeFi,"Cairo,Javascript,Python,Rust,Solidity,Typescript","Starknet,Stellar",GB,0,0,0,27,7,34
+franciszekjob,"Starknet Foundry,Starknet JVM,Starknet SDK for Python,Starknet docs: Starknet Technical Documentation,starknet.py",Dev Tooling,"Cairo,Java,Kotlin,Python,Rust,Swift",Starknet,,25,1,0,2,16,18
+FrancoGiachetta,"Cairo Native,Cairo VM",,"Cairo,Rust",Starknet,,0,0,2,5,14,21
+fricoben,"Cairo compiler,Starknet Quest,Starknet-id,Starky,The Cairo Book,Unruggable Meme,starknet.js",,"Cairo,Javascript,Python,Typescript",Starknet,PT,5724.96,3,2,9,15,26
+FriendlyLifeguard,"Ekubo Protocol,Giza,The Cairo Book,The Starknet Book",DeFi,"Cairo,Javascript,Python,Typescript",Starknet,US,0,0,0,0,0,0
+GabrielaDelPilarR,Speedrun & Scaffold Stark,,"Cairo,Javascript,Solidity,Typescript",Starknet,PE,0,0,0,0,0,0
+gabrielbosio,"Cairo Native,Platinum Prover",,"Cairo,Rust",Starknet,,0,0,0,2,0,2
+gabsn,"ArkProject,Starknet.dart",,"C++,Cairo,Java,Kotlin,Python,Swift",Starknet,,0,0,0,0,0,0
+gadyrcdz,"Cairo VM in Go,SafeSwap,stark-cairo-nodes","DeFi,Dev Tooling,Learning","Cairo,Go","Starknet,Stellar",CR,45,1,0,1,0,1
+gaetbout,"Alexandria,Cairo compiler,Cairo-Foundry,Kakarot,Madara,Satoru,The Cairo Book,The Starknet Book",,"Cairo,Rust,Typescript",Starknet,,1515.16,1,0,1,2,3
+gershon,ArkProject,,"Javascript,Rust,Typescript",Starknet,FR,0,0,0,2,1,3
+Gerson2102,"Cairo Native,Cairo lint,DeRisk,Devnet-rs,Ethereum Costa Rica,Gitcoin Allo Starknet,Giza,Go Stark Me,Kakarot,Madara,Raito - Bitcoin ZK Client,Reth,Starknet Phone,Starknet Quest,Starknet SDK for Python,Stone Packaging ,Zkramp,btczee,shinigami,stark-cairo-nodes,starknet.py","DeFi,Dev Tooling,Infrastructure,Learning","Cairo,Kotlin,Python,Rust,Typescript,Zig","Ethereum,Starknet",CR,286.86,3,5,8,0,13
+gianalarcon,"ArkProject,Dojo,RealmsWorld,Speedrun & Scaffold Stark,Starknet docs: Starknet Technical Documentation,The Starknet Book",,"Cairo,Javascript,Rust,Solidity,Typescript",Starknet,PE,1200,1,0,1,0,1
+Gianfranco99,"Cairo lint,Go Stark Me,Speedrun & Scaffold Stark,chaineventts",,Typescript,Starknet,AR,105,1,1,1,0,2
+GideonBature,"FLEX MARKETPLACE,Starknet Quest,Starknet docs: Starknet Technical Documentation",,"Rust,Typescript",Starknet,NG,84.99,2,0,0,0,0
+gilbens-starkware,Cairo compiler,,"Cairo,Rust,Typescript",Starknet,,0,0,0,3,24,27
+github-actions[bot],"Apibara,ArkProject,Babylon Node Auto Installer,Cairo VM,Cannon-RS,Dojo,Foundry,GO Feature Flag,Lume Web,Nethermind,Pathfinder,Reth,Speedrun & Scaffold Stark,Starknet React,Starknet Remix Plugin,Starknet SDK for Python,Starknet docs: Starknet Technical Documentation,Stellar CLI,starknet.js,starknet.py",Dev Tooling,"C#,Javascript,Typescript","Ethereum,Optimism,Starknet,Stellar",,0,0,0,0,0,0
+glihm,"Alexandria,ArkProject,Beerus,Blobstream-Starknet,Cairo VM,Cartridge,Devnet-rs,Dojo,Kakarot,Madara,Scarb,Starklings-Cairo1,Starknet Foundry,Starknet docs: Starknet Technical Documentation,Starknet in Rust,The Cairo Book,starknet-rs",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,FR,0,0,0,27,39,66
+godekina,"DeRisk,SpotNet",DeFi,Python,Starknet,NG,396.97,1,1,1,0,2
+Goodness5,"Custos Diretriz,Starknet Quest",,"Javascript,Typescript",Starknet,NG,0,0,0,4,9,13
+GoSTEAN,"Bandada,LandVer,STRKFarm,Soroswap.Finance, AMM in Stellar with Soroban Smart Contracts,StarkLudo,Starknet Quest,Starknet RPC Request Builder,Starknet SDK for Python,The Cairo Book,art/peace,chaineventts,starknet.js,starknet.py","DeFi,Dev Tooling,Gaming,Infrastructure,RWA","Cairo,Javascript,Typescript","Starknet,Stellar",NG,199.99,3,1,1,0,2
+GradleD,"Cairo compiler,Go Stark Me,Raito - Bitcoin ZK Client,Speedrun & Scaffold Stark,Starknet Quest,Starknet-id,Stone Packaging ",Infrastructure,"Python,Rust,Typescript",Starknet,IN,30,1,1,1,0,2
+green-john,Cashubrew,"Dev Tooling,Infrastructure",,Starknet,,192.29,1,0,2,1,3
+greged93,"Alexandria,Apibara,Beerus,Cairo Native,Cairo VM,Cairo VM in Go,Cairo VM in Zig,Cairo compiler,Dojo,Foundry,Kakarot,Madara,Reth,Starknet in Rust,Starknet.go,starknet-rs",,"Cairo,Go,Javascript,Python,Rust,Solidity,Typescript","Ethereum,Starknet",,0,0,3,28,20,51
+Groxan,Raito - Bitcoin ZK Client,Infrastructure,"Cairo,Python",Starknet,RU,2431.99,1,0,1,0,1
+guha-rahul,"Cairo VM in Go,Cairo lint,Dojo,Garaga,Hylé,Reth,Stone Packaging ,btczee",,"Cairo,Go,Javascript,Python,Rust,Typescript,Zig","Ethereum,Starknet",IN,1426.55,2,0,1,0,1
+hannahredler,"FLEX MARKETPLACE,Starknet Quest",,"Cairo,Python,Rust,Typescript",Starknet,ES,40,1,2,2,0,4
+har777,Cairo VM in Go,,"Cairo,Go",Starknet,,0,0,0,0,0,0
+heemankv,Deoxys,,"Rust,Typescript",Starknet,,0,0,0,1,0,1
+hemantwasthere,"ArkProject,STRKFarm,Starknet-id,Starkshoot,starknet.js",DeFi,"Javascript,Typescript","Ethereum,Optimism,Starknet",IN,850,2,1,0,0,1
+HermanObst,"Cairo VM,Deoxys,Pathfinder,Starknet in Rust",,"Cairo,Rust",Starknet,,0,0,0,0,1,1
+Hug0x0,"Cartridge,DevNet,Starknet docs: Starknet Technical Documentation",,,Starknet,FR,1531.15,2,0,0,0,0
+huisq,Speedrun & Scaffold Stark,,,Starknet,HK,165.89,1,0,1,0,1
+hwildwood,Raito - Bitcoin ZK Client,Infrastructure,,Starknet,,0,0,0,0,0,0
+IamEnergyI,Joyboy Community,,,Starknet,NG,723.45,1,0,0,0,0
+iamnovichek,"DeRisk,SpotNet",DeFi,Python,Starknet,,0,0,3,3,1,7
+ICavlek,Beerus,,"Cairo,Rust",Starknet,,0,0,0,2,4,6
+igaray,"Cairo Native,Cairo VM,Platinum Prover,Reth,Starknet in Rust",,"C++,Cairo,Javascript,Rust","Ethereum,Starknet",,0,0,0,0,6,6
+ikemHood,"ArkProject,BSV Blockchain Faucet,DeRisk,FLEX MARKETPLACE,Karst,SPV Wallet Browser,STRKFarm,ScanGuard,Speedrun & Scaffold Stark,SpotNet,Starknet Quest,Stellar Wallets Kit,Yours Wallet,Zkramp,shinigami,zKube","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Javascript,Python,Typescript","BSV Blockchain,Starknet,Stellar",NG,125,2,6,6,0,12
+ilitteri,Platinum Prover,,"Cairo,Rust",Starknet,,0,0,0,0,0,0
+ilyalesokhin-starkware,"Cairo compiler,Papyrus",,"Cairo,Rust",Starknet,,0,0,0,0,8,8
+Immanuelolivia1,"Cairo Native,Joyboy Community,Madara,Speedrun & Scaffold Stark,StarkLudo,Starknet Quest,Starknet-Scaffold,art/peace,chaineventts",Gaming,"Cairo,Go,Javascript,Typescript",Starknet,NG,873.45,2,0,0,0,0
+integraledelebesgue,"Cairo compiler,Devnet-rs,Scarb,Starknet Foundry",,"Cairo,Rust",Starknet,,0,0,0,1,1,2
+iossocket,Speedrun & Scaffold Stark,,Typescript,Starknet,CN,466.27,2,0,5,0,5
+irisdv,"Beerus,Concrete-ML Tutorials and demos,FHE Healthcare,Kakarot,StarkLink,Starknet Quest,Starknet React,Starknet-id,Starky,TFHE-rs tutorials and demos,The Cairo Book,starknet.js",,"Cairo,Javascript,Python,Rust,Typescript","Starknet,Zama",FR,0,0,0,2,0,2
+isfriz,Starknet docs: Starknet Technical Documentation,,,Starknet,,50,1,0,0,0,0
+Israelrex9,"Joyboy Community,Mancala,shinigami",,,Starknet,NG,3015.27,1,0,0,0,0
+ivpavici,"Abi WAN TS,Apibara,DevNet,Devnet-rs,Hardhat-Plugin,Starknet docs: Starknet Technical Documentation,The Starknet Book,starknet.js",,"Javascript,Rust,Typescript",Starknet,,0,0,0,0,4,4
+Iwueseiter,"ArkProject,Bandada,Cairo VM in Go,Concrete,ERC6551: Token bound Accounts on Starknet,FLEX MARKETPLACE,JS-Stellar-SDK,Mancala,STRKFarm,Speedrun & Scaffold Stark,StarkLudo,Starknet Phone,Starknet Quest,The Cairo Book,Worldcoin Scroll Bridge,Worldcoin-bridge-linea,art/peace,shinigami,starknet.js","DeFi,Gaming,Infrastructure","Cairo,Go,Javascript,Kotlin,Solidity,Typescript","Optimism,Starknet,Stellar",NG,454.78,4,1,1,0,2
+j1mbo64,"Cairo compiler,Madara,shinigami",,Rust,Starknet,FR,233.43,1,0,1,1,2
+jaiminRaiyani,Starknet Quest,,"Javascript,Typescript",Starknet,IN,50.98,1,1,1,0,2
+jaipaljadeja,"Apibara,Cartridge,Kakarot,Starkflare,Starknet Quest,Starknet React,cairovm-codes,opscan by walnut",,"Javascript,Python,Typescript",Starknet,IN,2635.41,1,1,4,3,8
+jaykayudo,"Bandada,DeRisk,SpotNet",DeFi,"Python,Typescript",Starknet,,0,0,2,2,0,4
+jbcaron,"Deoxys,Kakarot,starknet-rs",,Rust,Starknet,,0,0,0,4,11,15
+Jeanmichel7,"Raito - Bitcoin ZK Client,The Cairo Book,shinigami",Infrastructure,"Cairo,Python",Starknet,FR,938.25,4,1,3,0,4
+jedstroke,"Atoma Network ,Custos Diretriz,Influence,STRKFarm,StarkLudo","DeFi,Gaming","Cairo,Javascript,Typescript","Ethereum,Starknet",NG,100.1,1,0,1,0,1
+Jemiiah,"AFK - Aligned Fam Kernel,Concrete,ERC6551: Token bound Accounts on Starknet,FLEX MARKETPLACE,Karst,Konoha,LandVer,Mancala,SPV Wallet Browser,STRKFarm,ScanGuard,Soroban Example Dapp,Speedrun & Scaffold Stark,SpotNet,StarkLudo,Starknet By Example,Starknet Quest,Starknet-Scaffold,Stellar-Wallet,Stone Packaging ,The Cairo Book,Unruggable Meme,Worldcoin Scroll Bridge,Worldcoin-bridge-linea,Yours Wallet,Zkramp,art/peace,shinigami","DeFi,Gaming,Infrastructure,Learning,RWA","Cairo,Go,Javascript,Python,Solidity,Typescript","BSV Blockchain,Optimism,Starknet,Stellar",NG,948.88,7,4,4,0,8
+jerydam,Custos Diretriz,,,Starknet,,0,0,0,0,0,0
+jimenezz22,"Basic Payment App,ByteBeasts,Cairo VM in Go,Cairo lint,Dojo,Go Stark Me,Starknet Quest,cairovm-codes","Dev Tooling,Gaming,Learning","C#,Cairo,Go,Javascript,Rust,Typescript","Starknet,Stellar",CR,300,1,10,11,19,40
+JoE11-y,"ArkProject,Cairo lint,DipDup,FLEX MARKETPLACE,GO Feature Flag,Raito - Bitcoin ZK Client,SPV Wallet Browser,SpotNet,Starknet Phone,Starknet Quest,Stone Packaging ,Worldcoin Scroll Bridge,Yours Wallet,shinigami","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Kotlin,Python,Rust,Solidity,Typescript","BSV Blockchain,Ethereum,Optimism,Starknet",NG,3386.32,8,3,5,0,8
+JoelVR17,"ByteBeasts,Go Stark Me,SPV Wallet Browser,Starknet Quest,Trustless Work ,Yours Wallet,opscan by walnut","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Rust,Typescript","BSV Blockchain,Starknet,Stellar",CR,345,2,0,0,0,0
+joeperpetua,"ByteBeasts,Starknet Quest",Gaming,"Javascript,Typescript",Starknet,AT,510,2,3,4,0,7
+Johnnysoltani,"Speedrun & Scaffold Stark,Starknet Phone",Infrastructure,,Starknet,,0,0,0,0,1,1
+Jonatan-Chaverri,"Cofiblocks,Dojo,Mancala,Reth,Starknet SDK for Python,btczee,starknet.py","Dev Tooling,RWA","Cairo,Rust","Ethereum,Starknet",CR,391.87,1,0,1,0,1
+jorgezerpa,"ArkProject,Go Stark Me,LandVer","Infrastructure,RWA","Cairo,Typescript",Starknet,VE,200.21,1,1,1,0,2
+josephchimebuka,"Basic Payment App,ByteBeasts,Create Soroban Dapp Boiletplate,Custos Diretriz,DeRisk,Joyboy Community,Karst,Speedrun & Scaffold Stark,SpotNet,Starknet Quest,Stone Packaging ,zKube","DeFi,Dev Tooling,Gaming,Learning","Cairo,Javascript,Python,Typescript","Starknet,Stellar",NG,178.74,2,2,4,0,6
+josephpdf,"ByteBeasts,Go Stark Me,Semaphore Stellar","Dev Tooling,Gaming",,"Starknet,Stellar",CR,0,0,1,1,0,2
+Josh-121,"Atoma Network ,Concrete,DeRisk,DipDup,Gitcoin Allo Starknet,Kakarot,Mancala,Nethermind,Nicera Labs,SPV Wallet Browser,SpotNet,Starknet Quest,Stellar CLI,Yours Wallet,near-sdk-rs","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Go,Javascript,Python,Typescript","BSV Blockchain,Ethereum,Optimism,Starknet,Stellar",NG,300,2,4,4,0,8
+Joshaw-k,Custos Diretriz,,,Starknet,NG,0,0,1,1,0,2
+JoshdfG,"Amphitheatre,Bandada,Go Stark Me,Unruggable Meme",,Typescript,Starknet,NG,75,1,0,0,0,0
+Josue19-08,"ByteBeasts,Cairo lint",Gaming,"Javascript,Rust,Typescript",Starknet,CR,500,1,2,2,0,4
+JosueBrenes,"ByteBeasts,Custos Diretriz,GO Feature Flag,Go Stark Me,SafeTrust,Starknet Quest","DeFi,Dev Tooling,Gaming","Go,Javascript,Kotlin,Typescript","Starknet,Stellar",CR,230,2,4,4,0,8
+jotabulacios,Platinum Prover,,Rust,Starknet,,0,0,0,1,1,2
+Joy-Adah,"Basic Payment App,ERC6551: Token bound Accounts on Starknet,Joyboy Community,Konoha,StarkLudo,Starkflare,Starknet Quest,Starknet-Scaffold,Stone Packaging ,art/peace,chaineventts,opscan by walnut","Dev Tooling,Gaming,Learning","Cairo,Javascript,Typescript","Starknet,Stellar",NG,723.45,1,0,0,0,0
+jrcarlos2000,Speedrun & Scaffold Stark,,"Cairo,Javascript,Typescript",Starknet,PE,0,0,0,1,7,8
+jrmncos,"Beerus,Foundry,Nicera Labs,Starknet Phone,Starknet-Scaffold,near-sdk-rs","Dev Tooling,Infrastructure","Javascript,Kotlin,Rust","Ethereum,Starknet",AR,0,0,1,1,0,2
+jsanchez556,"Dojo,Starknet Quest,Stone Packaging ",,Rust,Starknet,CR,344.97,2,0,0,0,0
+jsandinoDev,"ByteBeasts,Go Stark Me,Hyperlane Starknet,Raito - Bitcoin ZK Client,shinigami","Gaming,Infrastructure",Rust,Starknet,CR,75,1,1,1,0,2
+juanbono,"Cairo Native,Cairo VM,Platinum Prover,Starknet in Rust,ZeroSync",,"Cairo,Javascript,Python,Rust",Starknet,,0,0,0,0,2,2
+juandiegocv27,"ByteBeasts,Dojo,Go Stark Me,Joyboy Community,Proof of Passport,Starknet Quest,Stellar CLI,near-sdk-rs,opscan by walnut","Dev Tooling,Gaming","C#,Cairo,Javascript,Rust,Typescript","Starknet,Stellar",CR,0,0,1,1,4,6
+JulianGCalderon,"Cairo Native,Cairo VM,Platinum Prover",,"Cairo,Python,Rust",Starknet,,0,0,2,4,18,24
+julienbrs,"Carbonable,Dojo,Giza,Starklings-Cairo1,Starknet By Example,Starknet Foundry,The Cairo Book,Unruggable Meme",Learning,"Cairo,Javascript,Rust,Typescript",Starknet,FR,0,0,0,0,2,2
+julio4,"Dojo,Nethermind,Starknet By Example,Starknet Foundry,Starknet Unity Gaming SDK,The Cairo Book",Learning,"C#,Cairo,Javascript,Rust,Typescript",Starknet,,0,0,0,0,2,2
+JunichiSugiura,"ArkProject,Cartridge,Dip,Dojo",,"Cairo,Javascript,Rust,Typescript",Starknet,FR,0,0,0,1,0,1
+k4kratik,Deoxys,,,Starknet,,0,0,0,0,0,0
+KahanMajmudar,Warpack Masters,,Cairo,Starknet,,0,0,0,0,0,0
+Kaminar-i,"DeRisk,Speedrun & Scaffold Stark,Stone Packaging ,shinigami",,Python,Starknet,NG,174.79,2,2,2,0,4
+karasbuilder,"Atemu World,Babylon Node Auto Installer,FLEX MARKETPLACE,StarkArcade",,"Javascript,Typescript",Starknet,VN,647.85,1,0,5,0,5
+kariy,"ArkProject,Cairo VM,Cartridge,Dojo,Kakarot,Madara,Reth,Scarb,Starknet in Rust,starknet-rs",,"Cairo,Javascript,Rust,Solidity,Typescript","Ethereum,Starknet",MY,0,0,3,53,7,63
+karlostoteles,"Cartridge,Dojo",,,Starknet,ES,3000.24,1,0,0,0,0
+kat0che,Nicera Labs,,,Starknet,,1000.23,1,0,0,0,0
+Kelvyne,"Beerus,Kakarot,Starknet docs: Starknet Technical Documentation",,"Cairo,Rust",Starknet,FR,25,1,0,0,0,0
+KevinLatino,"Go Stark Me,Peer Protocol,SafeSwap,SpotNet,Starknet Quest",DeFi,"Javascript,Typescript","Starknet,Stellar",CR,97.19,2,5,5,0,10
+KevinMB0220,"ByteBeasts,Cairo lint,GO Feature Flag","Dev Tooling,Gaming","Cairo,Rust",Starknet,CR,500,1,1,1,0,2
+kfastov,"Alexandria,Carbonable,FLEX MARKETPLACE,Madara,Peer Protocol,Starklings-Cairo1,Starknet Foundry,Starknet Quest,Worldcoin-bridge-linea,starknet.js",DeFi,"Cairo,Javascript,Rust,Solidity,Typescript",Starknet,RU,340,1,3,4,0,7
+KhairallahA,"Starknet Arabic Course,btczee",,"Cairo,Go,Javascript,Python,Rust,Zig",Starknet,YE,757.58,1,0,0,0,0
+Khauthymo,Custos Diretriz,,,Starknet,,0,0,0,3,0,3
+khayss,"ArkProject,Create Soroban Dapp Boiletplate,Peer Protocol,Reth,Starknet Foundry","DeFi,Dev Tooling,Learning","Rust,Solidity,Typescript","Ethereum,Starknet,Stellar",,0,0,1,1,0,2
+Kingsuite,"Custos Diretriz,DeRisk,LandVer,StarkLudo","Gaming,Infrastructure,RWA","Cairo,Python,Typescript",Starknet,NG,107.07,1,3,4,0,7
+kiyoshizk,STRKFarm,DeFi,,Starknet,IN,799.82,2,1,0,0,1
+kk4eyes,RealmsWorld,,,Starknet,,0,0,0,0,0,0
+kkawula,"Devnet-rs,Scarb,Starknet Foundry,Starknet JVM,Starknet SDK for Python,Starknet docs: Starknet Technical Documentation,The Cairo Book,starknet.py",Dev Tooling,"Cairo,Python,Rust",Starknet,PL,0,0,0,2,8,10
+klaus993,"Cairo Native,Cairo VM,Platinum Prover,Starknet in Rust",,,Starknet,,0,0,0,0,0,0
+Klei0,Carbonable,,,Starknet,,0,0,0,1,0,1
+Kostya-59benz,SpotNet,DeFi,Python,Starknet,,0,0,2,2,0,4
+ksew1,"Scarb,Starknet Foundry",,"Cairo,Javascript,Rust",Starknet,,0,0,0,5,2,7
+kwiss,ArkProject,,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,,0,0,0,0,0,0
+lambda-0x,"Alexandria,ArkProject,Cairo VM in Zig,Cairo compiler,Dojo,Foundry,Kakarot,Madara,Pathfinder,Satoru,Starklings-Cairo1,Starknet Foundry,Starknet docs: Starknet Technical Documentation,The Starknet Book",,"Cairo,Javascript,Python,Rust,Solidity,Typescript,Zig","Ethereum,Starknet",IN,0,0,0,3,0,3
+LamsyA,"Dojo,Scroll SDKs,Starknet By Example",Learning,"Cairo,Javascript,Typescript",Starknet,NG,19.94,1,0,0,0,0
+lana-shanghai,"Agent STARK,Barknet,Cairo VM in Zig,Kakarot,Madara,Raito - Bitcoin ZK Client,Zkramp,btczee,🥥 Cashu wallet and mint implementation in Zig","DeFi,Infrastructure","Cairo,Javascript,Python,Rust,Typescript,Zig",Starknet,DE,0,0,0,0,0,0
+LandauRaz,"Starknet docs: Starknet Technical Documentation,The Starknet Book",,Javascript,Starknet,,0,0,0,6,3,9
+Larkooo,"Apibara,ArkProject,Cartridge,Dojo,Starknet.go",,"C#,Cairo,Go,Java,Javascript,Rust,Solidity,Typescript",Starknet,,0,0,0,18,1,19
+lauchaves,"AFK - Aligned Fam Kernel,Cairo lint,Joyboy Community,SafeSwap,Starknet Phone,Starknet Quest,Stellar Wallets Kit,near-sdk-rs","DeFi,Dev Tooling,Infrastructure","Rust,Typescript","Starknet,Stellar",CR,140,2,1,2,0,3
+LawrenceEzealor,"Joyboy Community,Nethermind,Starknet.dart,art/peace",,,Starknet,NG,0,0,0,0,0,0
+leohscl,Zkramp,DeFi,Cairo,Starknet,FR,999.95,2,0,1,0,1
+leo-starkware,Starknet docs: Starknet Technical Documentation,,,Starknet,,0,0,0,0,1,1
+leoyoung-69,Devnet-rs,,"Javascript,Typescript",Starknet,CN,489.98,1,0,0,0,0
+lesnitsky,Starknet.dart,,"Cairo,Swift",Starknet,,0,0,0,1,0,1
+lindsaymoralesb,"AFK - Aligned Fam Kernel,Cairo lint,Carbonable,DeRisk,Influence,Joyboy Community,Starknet Quest,Starknet React,Stellar Wallets Kit,Zkramp",DeFi,"Cairo,Javascript,Rust,Solidity,Typescript","Ethereum,Starknet,Stellar",CR,925,2,1,2,0,3
+LKozlowski,Beerus,,Rust,Starknet,,0,0,0,0,1,1
+lomasson,"Raito - Bitcoin ZK Client,shinigami",Infrastructure,"Cairo,Python",Starknet,FR,442.92,1,0,0,0,0
+loothero,"ArkProject,Dojo,Loot Survivor,RealmsWorld",Gaming,"Cairo,Javascript,Python,Typescript",Starknet,,0,0,0,0,0,0
+LordSecretive,"RealmsWorld,Unruggable Meme",,Cairo,Starknet,,1515.16,1,0,4,0,4
+lordshashank,"Cairo Native,Devnet-rs,Kakarot,Reth,Worldcoin-bridge-linea,near-sdk-rs,rustc_codegen_gcc",Dev Tooling,"Cairo,Javascript,Rust","Ethereum,Starknet",IN,0,0,0,0,0,0
+lotem-starkware,"Papyrus,Starknet docs: Starknet Technical Documentation",,,Starknet,,0,0,0,1,0,1
+LouiseMedova,Warpack Masters,,Cairo,Starknet,,0,0,0,0,0,0
+Lubov66,Karst,,,Starknet,,0,0,0,1,0,1
+luiz-lvj,"Garaga,Zkramp",DeFi,"Cairo,Javascript,Rust,Typescript",Starknet,BR,0,0,2,2,0,4
+lukasaric,starknet.js,,"Cairo,Typescript",Starknet,HR,0,0,0,0,0,0
+lukaspetrasek,DeRisk,,Python,Starknet,CZ,0,0,0,0,0,0
+Luluameh,"JS-Stellar-SDK,Starknet Quest",,Typescript,"Starknet,Stellar",NG,0,0,0,0,0,0
+machuwey,"Dojo,Speedrun & Scaffold Stark,Strapex,The Starknet Book","DeFi,RWA","Cairo,Javascript,Typescript",Starknet,ES,0,0,0,1,0,1
+maciejka,"Alexandria,Cairo compiler,Devnet-rs,Joyboy Community,Raito - Bitcoin ZK Client,Scarb,shinigami,starknet.js",Infrastructure,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,1,8,15,24
+maciektr,"Alexandria,Cairo compiler,Scarb,Starknet Foundry,Starknet JVM,Starknet docs: Starknet Technical Documentation",,"Cairo,Rust,Typescript",Starknet,,0,0,0,4,3,7
+MaiCVCR,Cofiblocks,RWA,"Javascript,Typescript",Starknet,CR,0,0,0,0,0,0
+malakbenh,Starknet Arabic Course,,,Starknet,DZ,80,1,0,0,0,0
+manlikeHB,"AFK - Aligned Fam Kernel,ArkProject,Cairo lint,Carbonable,Go Stark Me,Kakarot,Karst,Konoha,LandVer,Raito - Bitcoin ZK Client,ScanGuard,Starknet Foundry,Starknet Phone,Zkramp,art/peace,shinigami","DeFi,Infrastructure,RWA","Cairo,Go,Javascript,Rust,Typescript",Starknet,NG,1829.36,7,4,9,0,13
+manoahLinks,"Cairo Native,LandVer,Starknet Quest,art/peace,btczee,chaineventts,shinigami,starknet-rs","Infrastructure,RWA","Cairo,Javascript,Rust,Typescript,Zig",Starknet,NG,723.45,1,1,1,0,2
+ManuelJG1999,Go Stark Me,,Typescript,Starknet,CR,40,1,1,1,0,2
+ManvithaMolakala,"DeRisk,STRKFarm,Starknet SDK for Python,starknet.py","DeFi,Dev Tooling","Javascript,Python",Starknet,IN,1000,2,0,0,0,0
+Marchand-Nicolas,"ArkProject,Carbonable,Speedrun & Scaffold Stark,Starknet Quest,Starknet-Scaffold,Starknet-id,Starky",,"Cairo,Javascript,Rust,Typescript",Starknet,FR,3000,1,3,24,27,54
+marcuspang,"Cairo Native,Cairo compiler,Foundry,Juno,Nethermind",,"C#,Go,Rust,Typescript","Ethereum,Starknet",,0,0,0,1,0,1
+MariangelaNM,"Cairo lint,Dojo,Go Stark Me,stark-cairo-nodes","Dev Tooling,Learning","Rust,Typescript",Starknet,CR,190,2,1,1,0,2
+marijamijailovic,"Starknet Foundry,Walnut HQ,cairovm-codes",,Typescript,Starknet,RS,0,0,0,4,0,4
+mariobern,Starknet docs: Starknet Technical Documentation,,,Starknet,,31.99,1,0,1,0,1
+mariocodecr,"ByteBeasts,Go Stark Me,RealmsWorld,Starknet Quest",Gaming,"Cairo,Typescript",Starknet,CR,30,1,1,3,0,4
+marioiordanov,"Devnet-rs,Madara,Papyrus,Starknet in Rust",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,BG,0,0,0,6,1,7
+MartianGreed,"Amneszia,Apibara,Cairo VM in Go,Carbonable,Dojo,Kakarot,Papyrus,RealmsWorld,Starknet in Rust",,"Cairo,Go,Javascript,Rust,Typescript",Starknet,FR,5200,1,0,3,0,3
+martinvibes,"AFK - Aligned Fam Kernel,Bandada,Custos Diretriz,DeRisk,GO Feature Flag,Joyboy Community,Raito - Bitcoin ZK Client,STRKFarm,Semaphore Stellar,Speedrun & Scaffold Stark,SpotNet,StarkLudo,Starknet Phone,Starknet Quest,Stone Packaging ,The Cairo Book,chaineventts,shinigami","DeFi,Dev Tooling,Gaming,Infrastructure","Go,Kotlin,Python,Typescript","Starknet,Stellar",NG,535,3,2,5,0,7
+MatiasAchucarro,Starknet Quest,,Typescript,Starknet,AR,0,0,0,0,0,0
+Matth26,"Cartridge,Dojo,Madara,The Cairo Book,Tsubasa,zConqueror,zKlash,zKnight,zKube",Gaming,"C#,Cairo,Javascript,Rust,Typescript",Starknet,FR,757.58,1,0,11,0,11
+MauroToscano,"Cairo VM,Platinum Prover,starknet-rs",,"Cairo,Go,Python,Rust",Starknet,,0,0,0,0,0,0
+maxslimb,"Foundry,Starknet Phone,Yours Wallet","DeFi,Gaming,Infrastructure,Learning,RWA","Java,Kotlin","BSV Blockchain,Ethereum,Starknet",,1000.16,1,0,1,0,1
+mayasimi,DeRisk,,Python,Starknet,NG,0,0,1,1,0,2
+MayowaObisesan,"Custos Diretriz,Go Stark Me,JigIT",,"Javascript,Typescript",Starknet,NG,0,0,1,1,0,2
+mazurroman,"Starkflare,Walnut HQ,cairovm-codes,opscan by walnut",,Typescript,Starknet,CZ,0,0,0,4,0,4
+mdqst,"Kakarot,Proof of Passport",,Typescript,Starknet,,0,0,0,1,0,1
+melnikga,"Speedrun & Scaffold Stark,StarkLudo,Starkflare,Walnut HQ,cairovm-codes,opscan by walnut",Gaming,"Javascript,Typescript",Starknet,RU,0,0,0,0,0,0
+mercykolapo,Custos Diretriz,,,Starknet,,0,0,0,0,1,1
+metalboyrick,Speedrun & Scaffold Stark,,"Cairo,Javascript,Typescript",Starknet,ID,2196.81,2,3,12,4,19
+mexes20,"DeRisk,GO Feature Flag,Raito - Bitcoin ZK Client,Speedrun & Scaffold Stark,Stone Packaging ,btczee,shinigami","Dev Tooling,Infrastructure","Cairo,Go,Javascript,Python,Typescript",Starknet,NG,242.75,2,1,2,0,3
+milancermak,"Alexandria,Cairo compiler,Cubit,Dojo,RealmsWorld,Scarb,Starknet Foundry,Starknet docs: Starknet Technical Documentation,Starknet in Rust,The Cairo Book,starknet-rs",,"Cairo,Rust",Starknet,CZ,0,0,0,0,0,0
+MildPXL,LandVer,"Infrastructure,RWA",,Starknet,,0,0,1,1,0,2
+mimisavage,DeRisk,,Python,Starknet,,0,0,1,1,0,2
+mkaput,"Alexandria,Cairo compiler,Scarb,Starknet Foundry,The Cairo Book,The Starknet Book",,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,0,24,20,44
+m-kus,"Cairo VM,Cairo compiler,Cairo lint,DipDup,Garaga,Madara,Raito - Bitcoin ZK Client,Scarb,Zkramp,starknet.js","DeFi,Infrastructure","Cairo,Go,Python,Rust,Solidity,Typescript","Ethereum,Optimism,Starknet",IL,0,0,3,9,15,27
+Mohiiit,"Deoxys,Dojo,FLEX MARKETPLACE,Kakarot,Starknet By Example,Starknet Security Challenges Factory,Unruggable Meme",Learning,"Cairo,Rust",Starknet,IN,0,0,0,5,6,11
+moodysalem,"Cairo compiler,Ekubo Protocol,Giza",DeFi,"Cairo,Typescript",Starknet,US,0,0,0,0,0,0
+MPSxDev,"Go Stark Me,Nicera Labs,PayStell,Proof of Passport,Semaphore Stellar,Speedrun & Scaffold Stark,near-sdk-rs","DeFi,Dev Tooling","Cairo,Rust,Typescript","Starknet,Stellar",CL,225,1,1,1,0,2
+MrRoudyk,"DipDup,Stone Packaging ",,,"Ethereum,Optimism,Starknet",IL,1210.55,2,0,1,0,1
+MSghais,"AFK - Aligned Fam Kernel,Blobstream-Starknet,Cashubrew,Joyboy Community,Raito - Bitcoin ZK Client,Zkramp","DeFi,Dev Tooling,Infrastructure","Cairo,Go,Javascript,Python,Rust,Solidity,Typescript",Starknet,FR,2615.2,2,0,15,20,35
+mubarak23,"AFK - Aligned Fam Kernel,ArkProject,Devnet-rs,Dojo,ERC6551: Token bound Accounts on Starknet,FLEX MARKETPLACE,Joyboy Community,Kakarot,Karst,Nicera Labs,Raito - Bitcoin ZK Client,Starknet By Example,Starknet Phone,Starknet Quest,The Cairo Book,Vault,Zkramp,art/peace,btczee,chaineventts,rustc_codegen_gcc,shinigami","DeFi,Infrastructure,Learning","Cairo,Go,Javascript,Python,Rust,Typescript",Starknet,NG,941.21,4,0,3,1,4
+muheebyusufbaba1,"Devnet-rs,Rosettanet,StarkLudo,Starknet Quest,art/peace,starknet.js",Gaming,"Cairo,Javascript,Typescript",Starknet,NG,100,1,0,1,0,1
+MullerEsposito,Cairo Crowdfunding,Learning,Cairo,Starknet,BR,326.07,1,0,0,0,0
+MullerTheScientist,"StarkLudo,Stone Packaging ",Gaming,Typescript,Starknet,,181.21,2,0,0,0,0
+Mystic-Nayy,"Create Soroban Dapp Boiletplate,DeRisk,ERC6551: Token bound Accounts on Starknet,FLEX MARKETPLACE,Joyboy Community,Karst,Konoha,STRKFarm,ScanGuard,StarkLudo,Starknet By Example,Starknet Phone,Starknet Quest,Starknet-Scaffold,Stellar-Wallet,The Cairo Book,Vault,Worldcoin Scroll Bridge,Worldcoin-bridge-linea,art/peace,shinigami,zKube","DeFi,Dev Tooling,Gaming,Infrastructure,Learning","Cairo,Go,Javascript,Kotlin,Python,Solidity,Typescript","Starknet,Stellar",NG,400,4,2,4,0,6
+Nadai2010,"Dojo,Speedrun & Scaffold Stark,Starknet By Example,The Cairo Book,The Starknet Book,learnXinYminutes",Learning,"Cairo,Javascript,Typescript",Starknet,ES,0,0,0,9,6,15
+natan-granit,Starknet docs: Starknet Technical Documentation,,,Starknet,,0,0,0,3,2,5
+NehharShah,Cashubrew,"Dev Tooling,Infrastructure",,Starknet,,0,0,0,1,0,1
+nehkee,shinigami,,,Starknet,,2167.35,1,0,0,0,0
+Nemezjusz,Starknet Foundry,,Rust,Starknet,,0,0,0,1,0,1
+ngjupeng,"Speedrun & Scaffold Stark,WTF Academy Starknet",,"Cairo,Javascript,Typescript",Starknet,MY,1500,1,0,7,2,9
+nicole-graus,Platinum Prover,,Rust,Starknet,,0,0,0,0,0,0
+nicon44,Starklings App,,"Cairo,Javascript,Typescript",Starknet,ES,0,0,0,0,0,0
+nnsW3,"Alexandria,ArkProject,Cairo compiler,DeRisk,Ekubo Protocol,Foundry,JS-Stellar-SDK,Kakarot,Lava Network,Platinum Prover,Reth,Speedrun & Scaffold Stark,Starknet docs: Starknet Technical Documentation,World Engine",DeFi,"Cairo,Go,Rust,Solidity,Typescript","Ethereum,Starknet,Stellar",,0,0,0,1,0,1
+No-bodyq,"Atoma Network ,LandVer,Mancala,Starknet By Example,Starknet Quest,The Cairo Book","Infrastructure,Learning,RWA","Cairo,Javascript,Typescript",Starknet,NG,0,0,1,1,0,2
+notlesh,"Cairo VM,Deoxys,Madara",,"Cairo,Rust",Starknet,,0,0,0,0,0,0
+notV4l,"ArkProject,Cairo compiler,Cartridge,Cubit,Damn  Vulnerable Defi Starknet,Dojo,Hardhat-Plugin,Ledger Fresh,Starknet React,Tsubasa,starknet.js",,"Cairo,Javascript,Rust,Solidity,Typescript",Starknet,,0,0,0,6,0,6
+nov0ax,ByteBeasts,Gaming,,Starknet,CR,0,0,1,1,0,2
+NueloSE,"ArkProject,ByteBeasts,Custos Diretriz,DeRisk,ERC6551: Token bound Accounts on Starknet,Go Stark Me,Speedrun & Scaffold Stark,StarkLudo,Starknet By Example,Starknet Foundry,Starknet Quest,The Cairo Book,art/peace,opscan by walnut,starknet.js","Gaming,Learning","C#,Cairo,Javascript,Python,Rust,Typescript",Starknet,NG,644.78,3,4,7,0,11
+obatirou,"Kakarot,The Cairo Book",,"Cairo,Python,Rust,Solidity,Typescript",Starknet,,0,0,5,16,8,29
+ocdbytes,"Deoxys,Madara,Pathfinder,Vault",,"Cairo,Javascript,Rust,Typescript",Starknet,IN,0,0,0,0,1,1
+oceanlvr,Speedrun & Scaffold Stark,,Typescript,Starknet,CN,0,0,0,0,0,0
+odednaor,Starknet docs: Starknet Technical Documentation,,,Starknet,,0,0,0,3,0,3
+od-hunter,"AFK - Aligned Fam Kernel,ArkProject,Bandada,Basic Payment App,Blink Extension,Blobstream-Starknet,Carbonable,Custos Diretriz,DeRisk,Dojo,ERC6551: Token bound Accounts on Starknet,Hylé,JS-Stellar-SDK,Joyboy Community,Karst,Konoha,Mancala,Nicera Labs,OptimismJ,Peer Protocol,Raito - Bitcoin ZK Client,STRKFarm,Speedrun & Scaffold Stark,SpotNet,StarkLudo,Starknet Foundry,Starknet Quest,Starknet-Scaffold,Stellar Wallets Kit,Stellar-Wallet,Stone Packaging ,The Cairo Book,Worldcoin-bridge-linea,chaineventts,shinigami,zKube","DeFi,Dev Tooling,Gaming,Infrastructure,Learning","Cairo,Go,Javascript,Noir,Python,Rust,Solidity,Typescript","Starknet,Stellar",NG,1091.03,9,6,7,0,13
+Oemerbeck,Cairo compiler,,,Starknet,,0,0,0,0,0,0
+okhaimie-dev,"Apibara,Cartridge,Dojo,Ekubo Protocol,Giza,Mancala,Starknet By Example,Starknet React,The Cairo Book,The Starknet Book,Unruggable Meme,Zed Cairo,btczee,shinigami","DeFi,Dev Tooling,Learning","Cairo,Javascript,Rust,Typescript,Zig",Starknet,US,2036.77,3,0,4,0,4
+OkoliEvans,"Custos Diretriz,Joyboy Community,Konoha,Starknet By Example,Starknet-Scaffold,The Cairo Book,The Starknet Book,art/peace",Learning,"Cairo,Go,Javascript,Typescript",Starknet,NG,0,0,2,1,0,3
+Oleh-Zorin,Konoha,,Typescript,Starknet,UA,0,0,0,0,0,0
+Olexandr88,"Cairo compiler,Kakarot,Proof of Passport,Starknet docs: Starknet Technical Documentation",,,Starknet,,0,0,0,0,0,0
+oluwaseundotcom,Unruggable Meme,,,Starknet,NG,2167.35,1,0,0,0,0
+omahs,"0xFable,AFK - Aligned Fam Kernel,Alexandria,ArkProject,Avail powered zkEVM Validium,Bandada,Cairo VM,Cairo compiler,Cairo-Foundry,Carbonable,Checkpoint,DeRisk,DevNet,Devnet-rs,DipDup,Dojo,FHE Biometrics,Fair Raffle,Foundry,Garaga,Giza,Hardhat-Plugin,JS-Stellar-SDK,Joyboy Community,Kakarot,Lava Network,Ledger Fresh,MEV-RS,Madara,Nethermind,OptimismJ,Pathfinder,Platinum Prover,Poseidon,Proof of Passport,RealmsWorld,Reth,Satoru,Sedge,Sovereign SDK - Avail DA Adapter,Speedrun & Scaffold Stark,Starkboard,Starknet By Example,Starknet Foundry,Starknet SDK for Python,Starknet docs: Starknet Technical Documentation,Starknet in Rust,Starknet-Scaffold,Starknet-id,Starknet.dart,Starknet.go,The Cairo Book,The Starknet Book,Thoth,Topology,WTF Academy Starknet,ZK-Swap,ZeroSync,ethui (formerly Iron Wallet),learnXinYminutes,shefcraft,starknet-rs,starknet.js,starknet.py","Dev Tooling,Infrastructure,Learning","C#,Cairo,Rust,Solidity,Typescript","Ethereum,Optimism,Starknet,Stellar,Zama",CH,0,0,0,0,0,0
+OmriEshhar1,"Cairo VM,Papyrus",,Rust,Starknet,,0,0,0,0,0,0
+omsant02,"Peer Protocol,Soroswap.Finance, AMM in Stellar with Soroban Smart Contracts,Speedrun & Scaffold Stark",DeFi,"Cairo,Typescript","Starknet,Stellar",IN,105,1,0,1,0,1
+ooochoche,"DeRisk,DipDup,Dojo,FLEX MARKETPLACE,JS-Stellar-SDK,Kakarot,STRKFarm,ScanGuard,StarkLudo,Starknet Phone,Starknet Quest,Starknet React,The Cairo Book,shinigami","DeFi,Gaming,Infrastructure","Cairo,Python,Rust","Ethereum,Optimism,Starknet,Stellar",NG,69.93,1,3,4,0,7
+Oppen,"Cairo Native,Cairo VM,Platinum Prover,Starknet in Rust,starknet-rs",,"Cairo,Javascript,Python,Rust",Starknet,,0,0,0,1,1,2
+orizi,"Cairo VM,Cairo compiler",,"Cairo,Rust,Typescript",Starknet,,0,0,0,28,44,72
+Osatuyi,"ERC6551: Token bound Accounts on Starknet,ScanGuard,StarkLudo,The Cairo Book",Gaming,,Starknet,NG,0,0,1,1,0,2
+Oshioke-Salaki,"Blobstream-Starknet,Carbonable,ERC6551: Token bound Accounts on Starknet,Joyboy Community,Karst,Konoha,LandVer,Mancala,Nicera Labs,ScanGuard,StarkLudo,Starknet Foundry,Starknet Phone,Starknet Quest,Starknet-Scaffold,Stellar-Wallet,Token Giver,Unruggable Meme,art/peace,cairovm-codes,chaineventts,shinigami,zKube","DeFi,Gaming,Infrastructure,RWA","Cairo,Go,Javascript,Kotlin,Rust,Typescript","Starknet,Stellar",NG,652.11,2,2,9,0,11
+Otaiki1,"LandVer,ScanGuard,StarkLudo,Starknet Quest,art/peace,chaineventts,zKube","Gaming,Infrastructure,RWA","Javascript,Typescript",Starknet,NG,27,1,3,5,0,8
+OWK50GA,SpotNet,DeFi,Javascript,Starknet,,0,0,1,1,0,2
+oxkhn,"Atemu World,FLEX MARKETPLACE",,"Cairo,Typescript",Starknet,VN,3000,2,0,1,0,1
+pablodeymo,"Cairo Native,Platinum Prover",,Rust,Starknet,,0,0,0,0,1,1
+PabloVillaplana,"DeRisk,Foundry,Kakarot,RealmsWorld,Reth,StarkLudo,Starknet Quest",Gaming,"Python,Rust,Typescript","Ethereum,Starknet",CR,100,1,0,0,0,0
+paulemmanuelng,"ERC6551: Token bound Accounts on Starknet,Unruggable Meme",,,Starknet,NG,2167.35,1,0,0,0,0
+PaulRbl,Starknet.dart,,"Java,Swift",Starknet,FR,0,0,0,0,0,0
+PavitraAgarwal21,"Cairo compiler,Hylé,Karst,Raito - Bitcoin ZK Client",Infrastructure,"Cairo,Python,Rust",Starknet,IN,284.21,2,1,4,0,5
+PedroCo3lho,"Create Soroban Dapp Boiletplate,Soroswap.Finance, AMM in Stellar with Soroban Smart Contracts,Starklings App,Starknet Quest,Stellar Wallets Kit","DeFi,Dev Tooling,Learning",Typescript,"Starknet,Stellar",BR,0,0,0,0,0,0
+pefontana,"Cairo Native,Cairo VM,Platinum Prover,Starknet in Rust",,"Cairo,Javascript,Python,Rust",Starknet,,0,0,0,5,9,14
+penovicp,"Abi WAN TS,Hardhat-Plugin,starknet.js",,"Cairo,Javascript,Typescript",Starknet,,0,0,0,1,4,5
+petarcalic99,"Alexandria,Kakarot",,"Cairo,Python",Starknet,,0,0,0,0,0,0
+petersdt,"DeRisk,Starknet Quest,The Cairo Book,shinigami,starknet.js",,"Cairo,Python,Typescript",Starknet,NG,0,0,1,1,0,2
+PhavourIB,"ERC6551: Token bound Accounts on Starknet,Starknet-Scaffold",,,Starknet,NG,700,1,0,1,0,1
+pheobeayo,"Bandada,Speedrun & Scaffold Stark,Starknet Quest",,,Starknet,NG,105,1,0,0,0,0
+PhilippeR26,"Cairo compiler,starknet.js",,"Cairo,Javascript,Typescript",Starknet,,1500,1,0,3,1,4
+piotmag769,"Cairo compiler,Satoru,Scarb,Starknet Foundry",,"Cairo,Python,Rust,Typescript",Starknet,,0,0,3,10,37,50
+ponderingdemocritus,"Apibara,ArkProject,Cartridge,Cubit,Dojo,InstaSwap,Loot Survivor,Madara,Paved,RealmsWorld,Sandstorm,Scarb,Starknet React,Tsubasa,starknet-rs",Gaming,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,0,56,10,66
+PoulavBhowmick03,"AFK - Aligned Fam Kernel,ArkProject,BSV Blockchain Faucet,ByteBeasts,Create Soroban Dapp Boiletplate,Custos Diretriz,Dojo,ERC6551: Token bound Accounts on Starknet,JS-Stellar-SDK,LandVer,Peer Protocol,SpotNet,StarkLudo,Starknet Quest,chaineventts,opscan by walnut,starknet.js","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Javascript,Python,Rust,Solidity,Typescript","BSV Blockchain,Starknet,Stellar",IN,1453.55,8,10,13,0,23
+princeibs,"ArkProject,Cairo VM in Go,Carbonable,Devnet-rs,Dojo,Joyboy Community,Konoha,OnlyDust,Rosettanet,StarkLudo,Starknet By Example,Starknet Foundry,Starknet Quest,Starknet-Scaffold,The Cairo Book,art/peace,shinigami,starknet.js","Gaming,Learning","Cairo,Go,Javascript,Rust,Typescript",Starknet,NG,3475,3,0,1,3,4
+Psalmuel01,Custos Diretriz,,Javascript,Starknet,,0,0,1,1,0,2
+pscott,"Beerus,Cairo-Foundry,Checkpoint,DevNet,Hardhat-Plugin,Kakarot,Pathfinder",,"Cairo,Python,Rust,Typescript",Starknet,,0,0,0,1,0,1
+ptisserand,"0xFable,Apibara,ArkProject,Beerus,Cairo VM,Cairo VM in Zig,Cairo-Foundry,Concrete-ML Tutorials and demos,DevNet,Devnet-rs,Dojo,FHE Healthcare,Foundry,Kakarot,Konoha,Madara,Nicera Labs,Papyrus,ScanGuard,Starklings-Cairo1,Starknet Foundry,Starknet docs: Starknet Technical Documentation,Starknet.dart,TFHE-rs tutorials and demos,art/peace,btczee,shinigami",,"Cairo,Go,Kotlin,Python,Rust,Solidity,Typescript,Zig","Ethereum,Optimism,Starknet,Zama",,3787.56,3,1,9,5,15
+r0man1337,"Paved,RealmsWorld",,"Cairo,Javascript,Typescript",Starknet,RU,0,0,12,18,1,31
+raizo07,"ArkProject,Cairo lint,Carbonable,DeRisk,FLEX MARKETPLACE,Go Stark Me,Joyboy Community,Kakarot,Karst,Konoha,Madara,Nicera Labs,Raito - Bitcoin ZK Client,STRKFarm,Speedrun & Scaffold Stark,SpotNet,Starknet By Example,Starknet Foundry,Starknet Phone,Starknet Quest,Starknet React,Starknet SDK for Python,Starknet docs: Starknet Technical Documentation,Starknet in Rust,Stone Packaging ,Unruggable Meme,Vault,art/peace,shinigami,starknet.py","DeFi,Dev Tooling,Infrastructure,Learning","Cairo,Go,Javascript,Kotlin,Python,Rust,Typescript",Starknet,NG,294.91,5,4,6,0,10
+rajiabdul,LandVer,"Infrastructure,RWA",Cairo,Starknet,NG,105,2,1,1,0,2
+Ranulfo17,Cofiblocks,RWA,,Starknet,CR,2500,1,0,0,0,0
+raugfer,Garaga,,"Cairo,Go,Javascript,Python,Rust,Typescript",Starknet,,0,0,0,0,0,0
+Realkayzee,"FLEX MARKETPLACE,Hyperlane Starknet,Resolver",,"Cairo,Rust",Starknet,NG,0,0,0,0,0,0
+RedBeardEth,"RealmsWorld,Starknet React",,"Javascript,Python,Typescript",Starknet,AU,0,0,0,12,0,12
+redrocket94,Paved,,"Cairo,Javascript,Typescript",Starknet,PT,0,0,0,14,0,14
+remiroyc,"ArkProject,Hardhat-Plugin,Tsubasa",,"Cairo,Javascript,Rust,Solidity,Typescript",Starknet,FR,0,0,0,9,1,10
+remybar,"Blobstream-Starknet,Cairo compiler,Dojo,Hyperlane Starknet,Joyboy Community,Kakarot,Karst,Starknet-Scaffold,The Cairo Book,cairovm-codes",,"Cairo,Rust,Typescript",Starknet,BE,4099.74,2,0,1,0,1
+rianhughes,"Cairo VM in Go,Juno,Starknet By Example,Starknet.go",Learning,"Cairo,Go,Rust",Starknet,,0,0,0,0,2,2
+Rob-Morris,"RealmsWorld,Underware",,"Javascript,Typescript",Starknet,AU,724.73,1,0,0,0,0
+rodrigo-pino,"Cairo Native,Cairo VM in Go,Juno,Scarb,SpotNet,The Cairo Book",DeFi,"Cairo,Go,Javascript,Rust",Starknet,PT,0,0,0,2,0,2
+RolandoDrRobot,"ByteBeasts,Dojo,RealmsWorld,starknet.js",Gaming,"C#,Cairo,Javascript,Typescript",Starknet,CR,0,0,1,5,14,20
+rsodre,"Dojo,RealmsWorld,Underware",,"Cairo,Javascript,Python,Rust,Solidity,Typescript",Starknet,BR,0,0,0,0,0,0
+RuneRogue,"AFK - Aligned Fam Kernel,ByteBeasts,Cairo Native,Cairo compiler,Cairo-Foundry,Dojo,FLEX MARKETPLACE,Foundry,JS-Stellar-SDK,Juno,Starknet SDK for Python,Starknet.go,starknet.js,starknet.py","Dev Tooling,Gaming","Cairo,Go,Python,Rust,Solidity,Typescript","Ethereum,Starknet,Stellar",IN,0,0,0,0,0,0
+ryzen-xp,"ArkProject,Starknet Quest,Worldcoin-bridge-linea,chaineventts",,"Cairo,Rust,Solidity",Starknet,IN,225,2,1,1,0,2
+SailorJhay,SpotNet,DeFi,Javascript,Starknet,,0,0,1,1,0,2
+saimeunt,"AFK - Aligned Fam Kernel,ArkProject,BSV Blockchain Faucet,Basic Payment App,Cairo VM gs,Carbonable,Devnet-rs,FLEX MARKETPLACE,Go Stark Me,Hylé,Joyboy Community,Kakarot,Konoha,LandVer,Nicera Labs,RealmsWorld,Starkflare,Starknet By Example,Starknet Quest,Starknet RPC Request Builder,cairovm-codes,opscan by walnut,starknet.js","Dev Tooling,Infrastructure,Learning,RWA","Cairo,Javascript,Rust,Solidity,Typescript","BSV Blockchain,Starknet,Stellar",FR,1432.61,4,4,5,0,9
+sajalbnl,"Starknet Phone,Starknet Quest",Infrastructure,"Kotlin,Typescript",Starknet,IN,295,2,3,2,0,5
+sajalbnl1,Starknet Phone,Infrastructure,Kotlin,Starknet,,0,0,0,1,0,1
+salazarsebas,Go Stark Me,,,Starknet,CR,0,0,1,1,0,2
+sameer-nethermind,Hyperlane Starknet,,Cairo,Starknet,,0,0,0,0,0,0
+SamrendraS,"Madara,The Starknet Book",,"Javascript,Rust,Typescript",Starknet,IN,500,1,0,0,0,0
+sandragcarrillo,FLEX MARKETPLACE,,,Starknet,CO,163.01,1,0,0,0,0
+sanieni6,"ArkProject,Bandada,Go Stark Me",,Typescript,Starknet,EC,300,2,0,0,0,0
+sasasamaes,"ByteBeasts,Go Stark Me",Gaming,,Starknet,CR,0,0,1,2,0,3
+sBaki92,Carbonable,,Cairo,Starknet,,0,0,0,1,0,1
+schwepps,"Carbonable,Starknet React",,"Javascript,Typescript",Starknet,FR,0,0,0,0,0,0
+sdaav,"Starknet Quest,Starknet-id",,Typescript,Starknet,FR,3893.05,2,0,0,0,0
+sebas11042,"ByteBeasts,Cairo lint",Gaming,"C#,Rust",Starknet,CR,556.16,1,2,2,0,4
+Sekhmet,"Checkpoint,starknet.js",,Typescript,Starknet,,0,0,0,4,1,5
+sergefdrv,Replica_IO,,Javascript,"Aptos,Avail,Aztec,Ethereum,Lava,Optimism,Starknet",,0,0,0,0,0,0
+sergey-melnychuk,"Beerus,Pathfinder,Saitama,near-sdk-rs",Dev Tooling,"Javascript,Python,Rust",Starknet,,0,0,1,4,6,11
+Sh0g0-1758,"Cairo VM in Go,Gitcoin Allo Starknet",,"Cairo,Go",Starknet,,0,0,0,2,0,2
+shamsasari,"Deoxys,Kakarot",,"Python,Rust,Solidity",Starknet,,0,0,0,2,0,2
+ShantelPeters,"ArkProject,BSV Blockchain Faucet,Basic Payment App,GO Feature Flag,JS-Stellar-SDK,SPV Wallet Browser,STRKFarm,Speedrun & Scaffold Stark,SpotNet,Starknet Quest,Starknet React,Starknet SDK for Python,The Cairo Book,Yours Wallet,shinigami,starknet.py","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Javascript,Python,Rust,Typescript","BSV Blockchain,Starknet,Stellar",NG,282.84,3,1,3,0,4
+shramee,"Alexandria,ArkProject,Cairo compiler,Dojo,Garaga,Hanji,Hardhat-Plugin,Pathfinder,Saitama,Scarb,Starklings App,Starklings-Cairo1,Starknet Foundry,The Cairo Book,The Starknet Book,WTF Academy Starknet,shhtarknet,starknet-rs",,"Cairo,Javascript,Noir,Python,Rust,Typescript",Starknet,SG,2985.07,1,0,0,0,0
+sigmadawg,DeRisk,,Python,Starknet,,0,0,1,1,0,2
+Snehagupta1907,Starknet Quest,,Typescript,Starknet,,178.64,1,1,1,0,2
+SoarinSkySagar,"ArkProject,Basic Payment App,LandVer,SpotNet,Starknet Quest","DeFi,Dev Tooling,Infrastructure,Learning,RWA","Cairo,Javascript,Python,Solidity,Typescript","Starknet,Stellar",IN,600,2,2,4,0,6
+Solomonsolomonsolomon,"LandVer,StarkLudo","Gaming,Infrastructure,RWA","Javascript,Typescript",Starknet,NG,104.97,2,1,15,1,17
+spaghettiOnToast,RealmsWorld,,"Cairo,Javascript,Python,Typescript",Starknet,,757.58,1,0,0,0,0
+sprtd,"Babylon Node Auto Installer,Starknet Foundry",,"Cairo,Rust",Starknet,NG,2500.81,1,1,1,0,2
+StarkDegenz,Unruggable Meme,,,Starknet,FR,32383.1,3,0,0,0,0
+starknetdev,"Dojo,Loot Survivor,RealmsWorld,Starknet React",Gaming,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,1,3,0,4
+steebchen,"Cartridge,Dojo,Pathfinder",,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,0,0,0,3,2,5
+StefanMadzh,Garaga,,"Cairo,Python",Starknet,,0,0,0,2,0,2
+stefanMadzharov,Garaga,,Python,Starknet,DE,254.87,2,1,2,0,3
+stephanniegb,"ArkProject,ERC6551: Token bound Accounts on Starknet,Peer Protocol,Speedrun & Scaffold Stark,Starknet-Scaffold,Token Giver",DeFi,"Javascript,Typescript",Starknet,NG,600,3,1,11,4,16
+stevencartavia,"Cairo Native,Cairo lint,Dojo,Giza,Go Stark Me,Kakarot,Madara,Mancala,Raito - Bitcoin ZK Client,Reth,The Cairo Book,shinigami",Infrastructure,"Cairo,Rust,Typescript","Ethereum,Starknet",CR,0,0,1,1,0,2
+stoobie,"Cairo compiler,Papyrus,Starknet docs: Starknet Technical Documentation,The Cairo Book,The Starknet Book",,"Javascript,Python,Rust,Typescript",Starknet,,0,0,0,0,0,0
+StringNick,"Cairo VM in Zig,btczee,🥥 Cashu wallet and mint implementation in Zig",Infrastructure,"Cairo,Python,Rust,Zig",Starknet,RS,13742.77,3,0,0,0,0
+SudiptaPaul-31,"Custos Diretriz,Starknet Quest",,"Javascript,Typescript",Starknet,IN,29.92,1,2,2,0,4
+suhas-sensei,"Soroswap.Finance, AMM in Stellar with Soroban Smart Contracts,Starknet Quest",DeFi,"Rust,Typescript","Starknet,Stellar",IN,29.92,1,1,1,0,2
+suiwater,"Alexandria,Blobstream-Starknet,The Cairo Book",,Cairo,Starknet,CN,0,0,0,0,0,0
+supreme2580,"Dojo,Mancala,The Cairo Book,art/peace,btczee,shinigami",,"Cairo,Go,Javascript,Rust,Typescript,Zig",Starknet,NG,1143.67,4,0,4,1,5
+tabaktoni,"Abi WAN TS,DevNet,Devnet-rs,Hardhat-Plugin,starknet.js",,"Cairo,Javascript,Typescript",Starknet,,0,0,0,0,2,2
+taco-paco,"Alpaca,Cairo compiler,Devnet-rs,Hardhat-Plugin,Kakarot,Paradex Client Libraries,Starknet Remix Plugin,Starknet.go,Starsign,starknet.js",,"C++,Cairo,Go,Python,Rust,Typescript",Starknet,,0,0,0,0,0,0
+TAdev0,"Blobstream-Starknet,Cairo Native,Cairo VM in Go,Cairo compiler,Carbonable,Deoxys,Ekubo Protocol,FLEX MARKETPLACE,Giza,Juno,Kakarot,Mancala,Raito - Bitcoin ZK Client,Starklings-Cairo1,Starknet Foundry,Starknet Security Challenges Factory,The Cairo Book,Unruggable Meme,art/peace,cairovm-codes,shinigami","DeFi,Infrastructure","Cairo,Go,Javascript,Rust,Typescript",Starknet,FR,1756.31,2,0,1,1,2
+tarrencev,"Alexandria,ArkProject,Cairo VM,Cairo compiler,Cartridge,Cubit,Dojo,Foundry,Madara,Pathfinder,Sandstorm,Scarb,Starknet React,Starknet.go,Tsubasa,starknet-rs,starknet.js",,"Cairo,Go,Javascript,Python,Rust,Solidity,Typescript","Ethereum,Starknet",US,0,0,0,13,0,13
+tasneemtoolba,Starknet Quest,,,Starknet,EG,241.36,2,1,1,0,2
+tcoratger,"Cairo Native,Cairo VM,Cairo VM in Zig,Cairo compiler,Dojo,Kakarot,Platinum Prover,Reth,btczee,starknet-rs",,"Cairo,Go,Javascript,Python,Rust,Typescript,Zig","Ethereum,Starknet",FR,0,0,7,36,22,65
+tdelabro,"Alexandria,Barknet,Cairo VM,Cairo compiler,Cairo-Foundry,Cashubrew,Deoxys,Dojo,FHE Biometrics,Kakarot,Madara,OnlyDust,Platinum Prover,Starknet docs: Starknet Technical Documentation,btczee,starknet-rs","Dev Tooling,Infrastructure","Cairo,Javascript,Python,Rust,Solidity,Typescript,Zig","Starknet,Zama",,0,0,0,22,2,24
+tekkac,"Alexandria,Amneszia,Apibara,Carbonable,Cubit,Dojo,Garaga,Giza,Kakarot,Nicera Labs,OnlyDust,Speedrun & Scaffold Stark,Starknet docs: Starknet Technical Documentation,art/peace",,"Cairo,Go,Javascript,Python,Rust,Typescript",Starknet,FR,865.45,2,1,5,1,7
+tensojka,"Alexandria,Cairo compiler,Cubit,Konoha,SpotNet,Starknet Foundry",DeFi,"Cairo,Javascript,Python,Typescript",Starknet,CZ,0,0,1,1,0,2
+Teri-anric,"DeRisk,SpotNet",DeFi,"Javascript,Python",Starknet,,0,0,1,2,0,3
+Th0rgal,"Alexandria,Cairo compiler,Raito - Bitcoin ZK Client,Starknet Quest,Starknet React,Starknet-id,The Cairo Book,starknet-rs",Infrastructure,"Cairo,Javascript,Python,Rust,Typescript",Starknet,,628.96,1,2,3,8,13
+theAjaNwachuku,Karst,,,Starknet,NG,350,1,0,1,0,1
+THenry14,"DevNet,Scarb,Starknet Foundry,Starknet JVM,Starknet SDK for Python,starknet.py",Dev Tooling,"Cairo,Kotlin,Python,Rust",Starknet,,0,0,0,0,2,2
+thiagodeev,"Juno,Starknet docs: Starknet Technical Documentation,Starknet.go",,Go,Starknet,BR,25,1,0,1,0,1
+tktrev,Dragark,,Cairo,"Ethereum,Starknet",,0,0,0,1,0,1
+TomerStarkware,Cairo compiler,,"Cairo,Rust",Starknet,,0,0,0,2,3,5
+Tomer-StarkWare,Cairo compiler,,"Cairo,Rust",Starknet,,0,0,0,0,1,1
+tonypony220,"Barknet,Beerus,DevNet,Devnet-rs,Madara,Starknet.dart",,"Cairo,Rust",Starknet,FR,0,0,0,0,0,0
+tosoham,"DeRisk,DipDup,SpotNet",DeFi,Python,"Ethereum,Optimism,Starknet",IN,550.81,1,3,3,0,6
+TranNhi27,FLEX MARKETPLACE,,,Starknet,VN,200,1,0,0,0,0
+Trantorian1,"Deoxys,starknet-rs",,Rust,Starknet,MC,0,0,1,9,13,23
+trbutler4,"Barknet,Beerus,Kakarot,Madara,Starknet Phone,The Cairo Book,Zed Cairo","Dev Tooling,Infrastructure","Cairo,Java,Kotlin,Python,Rust",Starknet,US,3000,1,0,3,11,14
+TropicalDog17,"Cairo VM in Go,Cairo VM in Zig,Cairo lint,Foundry,Raito - Bitcoin ZK Client,Reth,Rosettanet,Worldcoin-bridge-linea,btczee,near-sdk-rs","Dev Tooling,Infrastructure","Cairo,Go,Javascript,Rust,Solidity,Typescript,Zig","Ethereum,Starknet",VN,0,0,0,0,0,0
+Ugo-X,"ArkProject,BSV Blockchain Faucet,Basic Payment App,Create Soroban Dapp Boiletplate,Hylé,Mancala,Nicera Labs,Peer Protocol,SPV Wallet Browser,STRKFarm,Soroban Example Dapp,Soroswap.Finance, AMM in Stellar with Soroban Smart Contracts,Speedrun & Scaffold Stark,Starknet Quest,Starknet-Scaffold,Underware,Worldcoin Scroll Bridge,Worldcoin-bridge-linea,Yours Wallet,opscan by walnut,starknet.js,zKube","DeFi,Dev Tooling,Gaming,Infrastructure,Learning,RWA","Cairo,Javascript,Python,Rust,Solidity,Typescript","BSV Blockchain,Starknet,Stellar",NG,1400,5,0,2,1,3
+ugur-eren,"Joyboy Community,Starknet React,Unruggable Meme,Zkramp,starknet.js",DeFi,"Cairo,Javascript,Typescript",Starknet,TR,250.03,1,0,0,0,0
+uri-99,Platinum Prover,,Rust,Starknet,,0,0,0,0,0,0
+UzNaZ,"DeRisk,SpotNet",DeFi,Python,Starknet,,94,1,2,4,0,6
+vadimskor78,Stone Packaging ,,,Starknet,RU,0,0,0,0,0,0
+varex83,"Cairo Native,Juno,Starknet ABI Form,Starknet Remix Plugin",,"Rust,Typescript",Starknet,,0,0,0,1,0,1
+varun-doshi,"Kakarot,Reth,btczee,shinigami",,"Cairo,Rust,Zig","Ethereum,Starknet",,244.51,1,0,1,0,1
+vibenedict,"Devnet-rs,Joyboy Community,Nicera Labs,Rosettanet,StarkLudo,Starknet Foundry,Starknet Quest,Starknet docs: Starknet Technical Documentation,Starknet-Scaffold,art/peace,shinigami,starknet.js",Gaming,"Javascript,Rust,Typescript",Starknet,NG,2759.99,3,0,2,0,2
+vicsnet,Project Starknet Orb,,Cairo,Starknet,,0,0,0,0,0,0
+VictoriaAde,"ERC6551: Token bound Accounts on Starknet,FLEX MARKETPLACE,Gitcoin Allo Starknet,Joyboy Community,Starknet Quest",,"Cairo,Javascript,Typescript",Starknet,NG,0,0,0,0,0,0
+Villarley,"LandVer,SafeSwap","DeFi,Infrastructure,RWA",Javascript,"Starknet,Stellar",CR,0,0,1,1,0,2
+vitaliypopel,"DeRisk,SpotNet",DeFi,Python,Starknet,UA,100,1,4,6,0,10
+wawel37,"Cairo compiler,Scarb",,"Cairo,Javascript,Rust",Starknet,,0,0,0,2,0,2
+whateverfw,SpotNet,DeFi,,Starknet,,0,0,0,0,16,16
+wheval,"ERC6551: Token bound Accounts on Starknet,Go Stark Me,Peer Protocol,Speedrun & Scaffold Stark,Starknet Quest,Starknet-Scaffold",DeFi,Typescript,Starknet,,42.99,1,3,3,0,6
+wighawag,Dojo,,Rust,Starknet,,0,0,0,0,0,0
+Wizard1209,DipDup,,"Javascript,Python","Ethereum,Optimism,Starknet",,0,0,0,0,1,1
+wojciechos,"Juno,Nethermind,Starknet docs: Starknet Technical Documentation,Starknet.go",,"Go,Javascript,Rust,Typescript",Starknet,,0,0,0,1,0,1
+wugalde19,"Cairo Native,Cairo VM in Go,Cofiblocks,Go Stark Me,Nethermind,Speedrun & Scaffold Stark,The Starknet Book",RWA,"C#,Cairo,Go,Javascript,Rust,Typescript",Starknet,CR,305,2,0,1,0,1
+xep-c-6yrpa,Beerus,,Rust,Starknet,,0,0,0,0,0,0
+xJonathanLEI,"Cairo VM,Cairo compiler,Cartridge,Dojo,Foundry,Juno,Madara,Pathfinder,Reth,starknet-rs",,"C++,Cairo,Javascript,Python,Rust,Solidity","Ethereum,Starknet",,0,0,0,8,1,9
+YairVaknin-starkware,Cairo VM,,Rust,Starknet,,0,0,0,2,0,2
+YangXiaoXue205,STARKs & FRI Course,Learning,,Starknet,,0,0,0,0,0,0
+YanYuanFE,"Abi WAN TS,Astro-editor,Space ABI,Starknet-id,stark-airdrop","Infrastructure,Learning","Cairo,Javascript,Typescript",Starknet,CN,0,0,0,1,0,1
+ybensacq,"ArkProject,Cashubrew,Dojo,Madara,btczee","Dev Tooling,Infrastructure","Cairo,Rust,Typescript,Zig",Starknet,FR,0,0,0,0,0,0
+yevh,"Juno,Nethermind,Sedge,Starknet.go",,,Starknet,,0,0,0,1,0,1
+YohanTz,"ArkProject,Starknet React,Tsubasa,starknet.js",,"Cairo,Javascript,Rust,Typescript",Starknet,FR,0,0,0,10,0,10
+yozhiik,Starknet CSV History Exporter,,Python,Starknet,GB,73.1,1,0,0,0,0
+yuvalsw,"Cairo VM,Cairo compiler,Starknet docs: Starknet Technical Documentation",,"Cairo,Javascript,Rust,Typescript",Starknet,,0,0,0,0,0,0
+Zaariel91,Stone Packaging ,,,Starknet,,0,0,0,1,0,1
+ZackAmes,"Dojo,blobbar",Gaming,"Cairo,Javascript,Typescript",Starknet,US,0,0,0,1,0,1
+zintarh,"AFK - Aligned Fam Kernel,ERC6551: Token bound Accounts on Starknet,FLEX MARKETPLACE,Giza,Joyboy Community,Karst,Konoha,Mancala,STRKFarm,ScanGuard,StarkLudo,Starknet Phone,Starknet Quest,Starknet-Scaffold,The Cairo Book,Worldcoin-bridge-linea,art/peace,shinigami","DeFi,Gaming,Infrastructure","Cairo,Go,Javascript,Kotlin,Typescript",Starknet,NG,600.01,3,0,2,5,7
+zleypner,"ByteBeasts,ERC6551: Token bound Accounts on Starknet,Starknet Quest",Gaming,Typescript,Starknet,CR,190.35,2,0,0,0,0

@@ -1,0 +1,34 @@
+# config.yaml
+
+# Data Configuration
+data:
+  source_path: "data/source/only_dust_contributors_7_11_2024.csv"
+  timestamp: "2024-11-07"
+
+# Developer Categories Configuration
+developer_categories:
+  beginner:
+    max_prs: 2
+    description: "New contributors with up to 2 PRs"
+  rising_star:
+    min_prs: 3
+    max_prs: 6
+    description: "Emerging developers with 3-6 PRs"
+  established:
+    min_prs: 7
+    max_prs: 15
+    description: "Established developers with 7-15 PRs"
+  senior:
+    min_prs: 16
+    max_prs: 30
+    description: "Senior contributors with 16-30 PRs"
+  elite:
+    min_prs: 31
+    description: "Elite developers with more than 30 PRs"
+
+# Application Configuration
+app:
+  title: "Only Dust Star Tracker"
+  subtitle: "Analyzing OnlyDust Contributor Metrics"
+  theme: "light"
+  default_height_px: 400
